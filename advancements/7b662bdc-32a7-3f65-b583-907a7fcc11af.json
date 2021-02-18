@@ -1,0 +1,107 @@
+{
+  "vanillatweaks:xp_management": {
+    "criteria": {
+      "tick": "2021-02-18 00:59:54 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/root": {
+    "criteria": {
+      "killed_by_something": "2021-02-18 01:02:32 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-02-18 00:59:54 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/explorer_of_worlds": {
+    "criteria": {
+      "forest_hills": "2021-02-18 00:59:54 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/advancement_legend": {
+    "criteria": {
+      "biomes_root": "2021-02-18 01:02:33 +0000",
+      "bacap_root": "2021-02-18 00:59:55 +0000",
+      "adventure_root": "2021-02-18 01:02:33 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/biomes_milestone": {
+    "criteria": {
+      "root": "2021-02-18 01:02:33 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/death_from_all": {
+    "criteria": {
+      "zombie": "2021-02-18 01:02:32 +0000"
+    },
+    "done": false
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2021-02-18 00:59:54 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:armored_elytra": {
+    "criteria": {
+      "tick": "2021-02-18 00:59:54 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2021-02-18 00:59:54 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/root": {
+    "criteria": {
+      "location": "2021-02-18 00:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2021-02-18 01:02:32 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:more_mob_heads": {
+    "criteria": {
+      "tick": "2021-02-18 00:59:54 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/one_with_the_forest": {
+    "criteria": {
+      "forest_hills": "2021-02-18 00:59:54 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/adventure_milestone": {
+    "criteria": {
+      "root": "2021-02-18 01:02:33 +0000"
+    },
+    "done": false
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2021-02-18 00:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_hills": "2021-02-18 00:59:54 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2578
+}
