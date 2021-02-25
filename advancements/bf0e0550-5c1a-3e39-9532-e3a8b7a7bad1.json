@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-10-10 05:11:36 +0000"
@@ -568,6 +574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:43:17 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:mining/even_moar_tools": {
     "criteria": {
       "diamond_pickaxe": "2020-11-15 06:38:04 +0000",
@@ -949,6 +961,7 @@
       "impaling": "2020-12-23 04:44:26 +0000",
       "thorns": "2020-11-20 04:13:19 +0000",
       "piercing": "2020-12-01 02:46:56 +0000",
+      "fire_protection": "2021-02-25 04:03:44 +0000",
       "smite": "2020-11-20 03:29:32 +0000",
       "unbreaking": "2020-11-15 03:15:54 +0000",
       "mending": "2020-11-15 07:27:23 +0000",
@@ -1236,12 +1249,14 @@
     "criteria": {
       "soul_sand": "2020-12-09 02:38:09 +0000",
       "nether_gold_ore": "2020-11-30 18:36:36 +0000",
+      "crimson_nylium": "2021-02-25 03:25:35 +0000",
       "glowstone": "2020-11-22 02:18:12 +0000",
       "ancient_debris": "2020-12-23 01:35:07 +0000",
       "magma_block": "2021-01-15 03:37:20 +0000",
       "netherrack": "2020-11-27 22:42:31 +0000",
       "nether_wart_block": "2020-12-09 02:36:48 +0000",
-      "nether_quartz_ore": "2020-11-30 18:36:01 +0000"
+      "nether_quartz_ore": "2020-11-30 18:36:01 +0000",
+      "warped_nylium": "2021-02-25 03:32:50 +0000"
     },
     "done": false
   },
@@ -1263,9 +1278,21 @@
     },
     "done": true
   },
+  "blazeandcave:technical/castaway_start": {
+    "criteria": {
+      "dried_kelp": "2021-02-25 06:07:14 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:technical/branch2_end": {
     "criteria": {
       "outer_neg_z": "2021-01-12 02:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:42:25 +0000"
     },
     "done": true
   },
@@ -1330,6 +1357,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2020-12-22 23:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:43:17 +0000"
     },
     "done": true
   },
@@ -1426,6 +1459,12 @@
   "blazeandcave:mining/eeuuwww": {
     "criteria": {
       "cobweb": "2020-11-15 03:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:43:17 +0000"
     },
     "done": true
   },
@@ -2066,6 +2105,7 @@
       "leather": "2020-11-15 04:23:08 +0000",
       "minecart": "2020-11-11 04:04:04 +0000",
       "elytra": "2021-01-12 03:14:31 +0000",
+      "spectral_arrow": "2021-02-25 03:39:09 +0000",
       "oak_boat": "2020-11-11 01:59:37 +0000",
       "netherite_shovel": "2020-12-22 22:25:53 +0000",
       "flint_and_steel": "2020-10-10 06:13:47 +0000",
@@ -2087,6 +2127,7 @@
       "golden_apple": "2021-02-02 03:44:45 +0000",
       "rotten_flesh": "2020-11-15 02:53:51 +0000",
       "tropical_fish_bucket": "2020-11-22 05:16:58 +0000",
+      "dried_kelp": "2021-02-25 06:07:11 +0000",
       "chainmail_leggings": "2020-11-27 05:04:10 +0000",
       "tnt_minecart": "2020-12-20 03:53:49 +0000",
       "stone_hoe": "2020-10-10 05:15:11 +0000",
@@ -2177,6 +2218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2021-02-25 06:07:11 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:mining/oh_noes": {
     "criteria": {
       "break_tool": "2020-10-10 05:07:38 +0000"
@@ -2228,6 +2275,12 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2020-12-22 22:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_acacia_planks": "2021-02-25 03:42:25 +0000"
     },
     "done": true
   },
@@ -2546,6 +2599,7 @@
   },
   "blazeandcave:building/the_acacia_king": {
     "criteria": {
+      "acacia_planks": "2021-02-25 03:42:25 +0000",
       "acacia_log": "2020-12-09 02:18:39 +0000"
     },
     "done": false
@@ -2865,6 +2919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:42:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2021-01-25 03:35:34 +0000"
@@ -2992,6 +3052,7 @@
       "fire_protection1": "2020-11-14 05:34:45 +0000",
       "power5": "2020-11-20 03:54:54 +0000",
       "riptide3": "2020-12-23 02:25:07 +0000",
+      "riptide2": "2021-02-25 04:05:36 +0000",
       "protection1": "2020-11-21 05:27:25 +0000",
       "protection2": "2020-11-27 06:23:47 +0000",
       "protection3": "2020-11-15 03:15:54 +0000",
@@ -3000,6 +3061,7 @@
       "multishot": "2020-12-01 02:45:14 +0000",
       "fortune2": "2020-12-02 02:46:21 +0000",
       "power3": "2020-12-05 03:53:28 +0000",
+      "fire_protection4": "2021-02-25 04:03:44 +0000",
       "power4": "2020-11-20 03:49:11 +0000",
       "power1": "2020-11-20 03:53:34 +0000",
       "fire_protection2": "2020-11-27 06:24:15 +0000",
@@ -3128,6 +3190,12 @@
     },
     "done": true
   },
+  "blazeandcave:nether/welcome_to_warp_zone": {
+    "criteria": {
+      "warped_planks": "2021-02-25 03:43:18 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2020-10-10 05:46:55 +0000"
@@ -3155,6 +3223,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2020-11-28 07:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:42:25 +0000"
     },
     "done": true
   },
@@ -3372,6 +3446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2020-10-10 06:02:01 +0000"
@@ -3523,6 +3603,7 @@
       "village": "2020-10-10 04:58:05 +0000",
       "stronghold": "2021-01-12 02:08:54 +0000",
       "end_city": "2021-01-12 03:10:26 +0000",
+      "mansion": "2021-02-25 05:09:12 +0000",
       "ruined_portal": "2020-11-21 04:33:40 +0000"
     },
     "done": false
@@ -3735,6 +3816,7 @@
       "witchcraft": "2020-12-09 02:16:00 +0000",
       "rekt": "2020-11-14 05:50:25 +0000",
       "ya_like_jazz": "2020-12-09 02:29:52 +0000",
+      "house_of_psychos": "2021-02-25 05:09:13 +0000",
       "moskstraumen": "2020-12-23 00:15:51 +0000",
       "when_pigs_used_to_fly": "2021-01-26 03:47:03 +0000",
       "nocturnal": "2020-12-23 00:08:50 +0000",
@@ -3864,6 +3946,7 @@
       "spelunker": "2020-10-10 05:42:33 +0000",
       "nether_root": "2020-11-20 04:26:38 +0000",
       "and_open": "2020-11-21 05:00:04 +0000",
+      "ecologist": "2021-02-25 03:08:36 +0000",
       "diemonds": "2021-01-26 03:28:39 +0000",
       "remote_getaway": "2021-01-12 02:30:52 +0000",
       "like_a_cat": "2020-11-20 04:08:08 +0000",
@@ -3966,6 +4049,7 @@
       "dont_step_on_it": "2020-11-28 07:12:21 +0000",
       "the_first_night": "2020-10-10 04:59:34 +0000",
       "do_a_barrel_roll": "2020-12-23 02:25:08 +0000",
+      "aquatic_biofuel": "2021-02-25 06:07:22 +0000",
       "the_wrong_shade_of_blue": "2020-11-10 21:07:20 +0000",
       "true_feather_falling": "2021-01-16 05:03:46 +0000",
       "turtle_army": "2021-02-18 01:43:01 +0000",
@@ -4282,6 +4366,7 @@
       "the_lie": "2020-11-13 04:12:34 +0000",
       "die_potato": "2020-11-21 02:39:38 +0000",
       "not_today": "2020-11-27 05:12:59 +0000",
+      "aquatic_biofuel": "2021-02-25 06:07:22 +0000",
       "its_where_nutella_comes_from": "2021-01-17 06:38:50 +0000",
       "root": "2020-10-10 05:15:12 +0000",
       "me_love_cookie": "2020-11-21 02:46:34 +0000",
@@ -4292,6 +4377,7 @@
       "suspicious_looking_stew": "2020-11-11 04:40:29 +0000",
       "mega_mushroom": "2020-12-04 03:02:38 +0000",
       "care_for_the_environment": "2020-11-27 06:06:42 +0000",
+      "ecologist": "2021-02-25 03:08:36 +0000",
       "disen_berry_berry_bad": "2020-12-04 00:40:20 +0000",
       "bapple": "2020-11-28 07:53:01 +0000"
     },
@@ -4536,6 +4622,7 @@
       "golden_apple": "2020-10-10 05:51:46 +0000",
       "rotten_flesh": "2020-10-10 05:59:24 +0000",
       "tropical_fish_bucket": "2020-11-22 05:16:58 +0000",
+      "dried_kelp": "2021-02-25 06:07:11 +0000",
       "chainmail_leggings": "2020-11-27 05:04:10 +0000",
       "tnt_minecart": "2020-12-20 03:53:49 +0000",
       "lead": "2020-11-13 01:33:04 +0000",
@@ -4846,6 +4933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2021-02-25 03:42:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2020-11-10 21:24:56 +0000"
@@ -4876,6 +4969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:42:25 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:technical/branch6_end": {
     "criteria": {
       "outer_neg_z": "2021-01-12 02:30:51 +0000"
@@ -4891,6 +4990,12 @@
   "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-11-13 03:17:56 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/house_of_psychos": {
+    "criteria": {
+      "mansion": "2021-02-25 05:09:12 +0000"
     },
     "done": true
   },
@@ -5336,6 +5441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:42:34 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:adventure/overpowered": {
     "criteria": {
       "golden_apple": "2021-02-02 03:42:40 +0000"
@@ -5446,9 +5557,10 @@
       "dark_oak_sapling": "2020-12-04 05:49:44 +0000",
       "oak_sapling": "2020-11-27 06:06:41 +0000",
       "acacia_sapling": "2020-12-09 02:26:50 +0000",
-      "birch_sapling": "2020-12-09 00:49:18 +0000"
+      "birch_sapling": "2020-12-09 00:49:18 +0000",
+      "jungle_sapling": "2021-02-25 03:08:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/quartz": {
     "criteria": {
@@ -5495,7 +5607,8 @@
       "tropical_fish": "2021-01-14 22:04:26 +0000",
       "lily_pad": "2020-12-09 03:04:16 +0000",
       "cod": "2020-11-30 19:47:57 +0000",
-      "stick": "2020-11-30 19:48:22 +0000"
+      "stick": "2020-11-30 19:48:22 +0000",
+      "nautilus_shell": "2021-02-25 04:14:07 +0000"
     },
     "done": false
   },
@@ -5607,6 +5720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2020-10-10 05:46:55 +0000"
@@ -5666,6 +5785,12 @@
       "leather": "2020-11-15 04:23:08 +0000"
     },
     "done": false
+  },
+  "blazeandcave:farming/aquatic_biofuel": {
+    "criteria": {
+      "dried_kelp_block": "2021-02-25 06:07:22 +0000"
+    },
+    "done": true
   },
   "blazeandcave:building/let_there_be_light": {
     "criteria": {
@@ -5973,6 +6098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:43:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2020-11-10 22:12:47 +0000"
@@ -6032,6 +6163,12 @@
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2020-12-09 02:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:43:17 +0000"
     },
     "done": true
   },
@@ -6215,6 +6352,7 @@
     "criteria": {
       "dead_bubble_coral": "2021-02-18 01:25:02 +0000",
       "horn_coral_block": "2021-01-24 05:03:10 +0000",
+      "brain_coral_block": "2021-02-25 03:35:23 +0000",
       "fire_coral_block": "2020-12-19 07:46:23 +0000",
       "bubble_coral_block": "2021-01-26 05:51:12 +0000"
     },
@@ -6280,6 +6418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:42:25 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:challenges/all_the_blocks": {
     "criteria": {
       "gilded_blackstone": "2020-12-09 03:59:58 +0000",
@@ -6289,6 +6433,7 @@
       "mossy_cobblestone": "2020-11-10 22:12:47 +0000",
       "honey_block": "2020-12-13 05:59:08 +0000",
       "diamond_ore": "2020-11-22 06:31:33 +0000",
+      "brain_coral_block": "2021-02-25 03:35:23 +0000",
       "azure_bluet": "2020-12-09 01:13:35 +0000",
       "scaffolding": "2021-01-14 01:42:10 +0000",
       "dark_oak_planks": "2020-10-10 05:32:57 +0000",
@@ -6346,6 +6491,7 @@
       "netherite_block": "2021-01-17 06:03:36 +0000",
       "smooth_sandstone_slab": "2021-01-26 05:37:09 +0000",
       "mushroom_stem": "2020-12-04 05:31:58 +0000",
+      "warped_planks": "2021-02-25 03:43:18 +0000",
       "blackstone": "2020-11-20 04:38:49 +0000",
       "white_carpet": "2020-11-13 03:17:56 +0000",
       "fletching_table": "2020-11-16 01:03:46 +0000",
@@ -6375,6 +6521,7 @@
       "acacia_sapling": "2020-12-09 02:19:52 +0000",
       "chiseled_polished_blackstone": "2020-12-09 04:01:26 +0000",
       "magenta_bed": "2021-01-23 07:34:04 +0000",
+      "warped_nylium": "2021-02-25 03:32:35 +0000",
       "diorite": "2020-11-10 21:24:56 +0000",
       "cyan_shulker_box": "2021-01-14 21:37:04 +0000",
       "cobweb": "2020-11-15 03:28:37 +0000",
@@ -6424,6 +6571,7 @@
       "light_blue_stained_glass_pane": "2021-01-23 04:58:20 +0000",
       "oak_log": "2020-10-10 05:00:10 +0000",
       "dark_oak_fence_gate": "2020-11-13 03:06:49 +0000",
+      "jungle_planks": "2021-02-25 03:42:34 +0000",
       "polished_andesite_stairs": "2020-11-27 21:47:44 +0000",
       "powered_rail": "2020-11-11 04:36:09 +0000",
       "emerald_ore": "2020-11-21 04:00:18 +0000",
@@ -6458,6 +6606,7 @@
       "lily_pad": "2020-11-11 01:07:55 +0000",
       "observer": "2020-11-27 04:33:17 +0000",
       "cake": "2020-11-13 04:12:34 +0000",
+      "podzol": "2021-02-25 03:24:16 +0000",
       "andesite": "2020-10-10 05:23:40 +0000",
       "acacia_leaves": "2020-12-09 02:42:47 +0000",
       "yellow_shulker_box": "2021-01-12 03:55:58 +0000",
@@ -6520,6 +6669,7 @@
       "wet_sponge": "2020-12-22 23:48:52 +0000",
       "cobblestone_stairs": "2020-11-10 22:11:31 +0000",
       "diamond_block": "2020-11-30 18:38:28 +0000",
+      "dried_kelp_block": "2021-02-25 06:07:22 +0000",
       "end_stone_bricks": "2021-01-12 03:15:46 +0000",
       "stone": "2020-11-16 03:16:45 +0000",
       "target": "2020-12-13 02:07:51 +0000",
@@ -6529,6 +6679,7 @@
       "soul_sand": "2020-11-20 04:56:20 +0000",
       "horn_coral_block": "2021-01-24 05:03:10 +0000",
       "white_shulker_box": "2021-01-14 05:53:37 +0000",
+      "fern": "2021-02-25 03:35:23 +0000",
       "soul_soil": "2020-11-28 07:25:16 +0000",
       "orange_tulip": "2020-12-22 03:48:56 +0000",
       "dark_oak_sapling": "2020-11-13 01:18:54 +0000",
@@ -6550,6 +6701,7 @@
       "slime_block": "2020-12-13 05:50:36 +0000",
       "emerald_block": "2020-11-30 18:38:28 +0000",
       "oak_fence": "2020-10-10 05:47:18 +0000",
+      "acacia_planks": "2021-02-25 03:42:25 +0000",
       "iron_ore": "2020-10-10 05:28:14 +0000",
       "lapis_block": "2020-11-30 18:38:28 +0000",
       "quartz_pillar": "2021-01-25 02:48:36 +0000",
@@ -6581,6 +6733,7 @@
       "red_shulker_box": "2021-01-12 03:55:58 +0000",
       "polished_andesite": "2020-11-27 05:47:05 +0000",
       "shroomlight": "2020-12-02 04:09:21 +0000",
+      "crimson_planks": "2021-02-25 03:43:17 +0000",
       "tripwire_hook": "2020-11-13 02:56:25 +0000",
       "note_block": "2020-12-09 01:41:22 +0000",
       "skeleton_skull": "2020-12-23 05:07:25 +0000",
@@ -6629,6 +6782,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_double_plant": "2020-12-09 01:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:43:18 +0000"
     },
     "done": true
   },
@@ -6911,6 +7070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:42:34 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:nether/hells_bells": {
     "criteria": {
       "bell": "2021-01-26 02:45:32 +0000"
@@ -7041,6 +7206,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-10 22:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_crimson_planks": "2021-02-25 03:43:17 +0000"
     },
     "done": true
   },
@@ -7333,6 +7504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:42:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2021-01-12 02:18:16 +0000"
@@ -7453,13 +7630,20 @@
       "zombie": "2020-11-22 02:26:37 +0000",
       "ghast": "2020-11-28 07:17:04 +0000",
       "strider": "2021-01-15 04:15:45 +0000",
-      "wither": "2020-12-22 04:15:34 +0000"
+      "wither": "2020-12-22 04:15:34 +0000",
+      "spider": "2021-02-25 03:31:48 +0000"
     },
     "done": false
   },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-11-20 04:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:43:17 +0000"
     },
     "done": true
   },
@@ -7714,6 +7898,7 @@
       "suspicious_stew": "2020-11-11 04:40:28 +0000",
       "honey_bottle": "2020-11-28 07:34:50 +0000",
       "sweet_berries": "2020-12-04 02:09:14 +0000",
+      "dried_kelp": "2021-02-25 06:07:14 +0000",
       "chorus_fruit": "2021-01-12 02:37:57 +0000",
       "melon_slice": "2020-11-20 03:18:24 +0000",
       "baked_potato": "2020-11-21 02:39:38 +0000",
@@ -7819,6 +8004,12 @@
     },
     "done": true
   },
+  "blazeandcave:technical/return_from_void": {
+    "criteria": {
+      "return_from_void": "2021-02-25 03:51:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2020-10-10 05:00:43 +0000"
@@ -7903,6 +8094,7 @@
       "riot_shield": "2021-01-17 02:28:25 +0000",
       "feeling_ill": "2021-01-17 02:38:10 +0000",
       "town_planner": "2020-12-13 04:24:53 +0000",
+      "house_of_psychos": "2021-02-25 05:09:13 +0000",
       "its_so_beast_like": "2021-01-17 02:38:10 +0000"
     },
     "done": false
@@ -7915,6 +8107,7 @@
   },
   "blazeandcave:building/the_jungler": {
     "criteria": {
+      "jungle_planks": "2021-02-25 03:42:34 +0000",
       "jungle_log": "2021-01-17 06:37:53 +0000"
     },
     "done": false
@@ -7940,6 +8133,12 @@
   "blazeandcave:weaponry/bombs_away": {
     "criteria": {
       "tnt": "2020-12-20 03:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:43:18 +0000"
     },
     "done": true
   },
@@ -8474,6 +8673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2020-11-21 02:34:29 +0000"
@@ -8495,7 +8700,9 @@
   "blazeandcave:building/grass_type": {
     "criteria": {
       "crimson_nylium": "2020-12-20 04:18:58 +0000",
-      "grass_block": "2020-11-11 02:22:32 +0000"
+      "podzol": "2021-02-25 03:24:16 +0000",
+      "grass_block": "2020-11-11 02:22:32 +0000",
+      "warped_nylium": "2021-02-25 03:32:35 +0000"
     },
     "done": false
   },
@@ -8696,7 +8903,8 @@
   },
   "blazeandcave:nether/what_about_corruption_planks": {
     "criteria": {
-      "crimson_stem": "2021-01-17 04:18:37 +0000"
+      "crimson_stem": "2021-01-17 04:18:37 +0000",
+      "crimson_planks": "2021-02-25 03:43:17 +0000"
     },
     "done": false
   },
@@ -8885,6 +9093,7 @@
       "rotten_flesh": "2020-11-11 00:37:32 +0000",
       "suspicious_stew": "2020-11-11 04:40:28 +0000",
       "cookie": "2020-11-21 02:46:34 +0000",
+      "dried_kelp": "2021-02-25 06:07:14 +0000",
       "melon_slice": "2020-11-20 03:18:24 +0000",
       "beetroot": "2020-11-13 02:42:30 +0000",
       "golden_carrot": "2020-11-27 06:24:31 +0000",
@@ -8913,6 +9122,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2020-12-22 22:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:42:34 +0000"
     },
     "done": true
   },
@@ -9156,6 +9371,7 @@
       "golden_apple": "2021-02-02 03:44:45 +0000",
       "suspicious_stew": "2020-10-10 05:16:44 +0000",
       "rotten_flesh": "2020-11-15 02:53:51 +0000",
+      "dried_kelp": "2021-02-25 06:07:11 +0000",
       "melon_slice": "2020-11-16 01:06:02 +0000",
       "beetroot": "2020-11-13 01:10:24 +0000",
       "golden_carrot": "2020-11-22 06:14:18 +0000",
@@ -9286,6 +9502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:43:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2020-10-10 05:15:24 +0000"
@@ -9317,6 +9539,12 @@
       "mossy": "2021-01-12 02:15:16 +0000",
       "chiseled": "2020-11-21 03:34:25 +0000",
       "cracked": "2021-01-12 02:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:42:25 +0000"
     },
     "done": true
   },
@@ -9378,6 +9606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:43:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2020-12-09 02:16:19 +0000"
@@ -9387,6 +9621,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-10-10 06:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2021-02-25 06:07:22 +0000"
     },
     "done": true
   },
@@ -9791,6 +10031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:43:18 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:building/fake_fortress": {
     "criteria": {
       "nether_brick_stairs": "2020-11-20 05:31:03 +0000",
@@ -9890,9 +10136,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-10 22:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:43:18 +0000"
     },
     "done": true
   },
@@ -9911,6 +10169,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-10-10 05:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:42:25 +0000"
     },
     "done": true
   },
@@ -10077,6 +10341,7 @@
     "criteria": {
       "bastion_hoglin_stable": "2020-12-09 04:19:57 +0000",
       "stronghold_crossing": "2021-02-01 03:34:55 +0000",
+      "underwater_ruin_small": "2021-02-25 05:29:08 +0000",
       "abandoned_mineshaft": "2020-10-10 05:50:47 +0000",
       "village_plains_house": "2020-12-22 23:31:56 +0000",
       "nether_bridge": "2020-11-20 05:16:19 +0000",
@@ -10101,6 +10366,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2020-11-11 01:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_warped_planks": "2021-02-25 03:43:18 +0000"
     },
     "done": true
   },
@@ -10249,6 +10520,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:42:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2020-11-28 07:14:38 +0000"
@@ -10283,6 +10560,7 @@
     "criteria": {
       "spruce_sapling": "2021-01-26 05:51:42 +0000",
       "oak_sapling": "2020-12-09 01:01:50 +0000",
+      "brown_mushroom": "2021-02-25 03:21:03 +0000",
       "lilac": "2020-12-09 02:33:19 +0000",
       "rose_bush": "2020-12-09 02:31:11 +0000",
       "acacia_sapling": "2020-12-09 02:26:52 +0000",
@@ -10291,9 +10569,13 @@
       "dark_oak_sapling": "2020-12-04 05:49:47 +0000",
       "pumpkin_stem": "2021-01-23 04:28:24 +0000",
       "melon_stem": "2021-01-23 04:29:05 +0000",
+      "crimson_fungus": "2021-02-25 03:29:13 +0000",
       "bamboo": "2021-01-25 05:16:40 +0000",
       "tall_grass": "2020-12-09 01:28:03 +0000",
-      "birch_sapling": "2020-12-09 00:49:20 +0000"
+      "warped_fungus": "2021-02-25 03:33:07 +0000",
+      "red_mushroom": "2021-02-25 03:25:03 +0000",
+      "birch_sapling": "2020-12-09 00:49:20 +0000",
+      "jungle_sapling": "2021-02-25 03:08:42 +0000"
     },
     "done": false
   },
@@ -10517,6 +10799,7 @@
       "light_gray_shulker_box": "2021-01-15 01:26:11 +0000",
       "sand": "2020-11-13 00:04:16 +0000",
       "netherite_block": "2021-01-17 06:03:36 +0000",
+      "warped_planks": "2021-02-25 03:43:18 +0000",
       "blackstone": "2020-12-23 00:47:48 +0000",
       "white_carpet": "2020-11-28 00:40:05 +0000",
       "coal_block": "2021-02-18 02:07:55 +0000",
@@ -10536,10 +10819,12 @@
       "gray_shulker_box": "2021-01-15 01:27:54 +0000",
       "smooth_stone": "2020-11-30 19:04:17 +0000",
       "mossy_stone_bricks": "2021-02-01 03:45:45 +0000",
+      "spruce_planks": "2021-02-25 03:42:45 +0000",
       "glass_pane": "2020-11-30 18:58:03 +0000",
       "dirt": "2020-11-10 21:53:52 +0000",
       "blue_bed": "2020-11-28 04:14:23 +0000",
       "light_blue_stained_glass_pane": "2021-01-23 04:58:20 +0000",
+      "jungle_planks": "2021-02-25 03:42:34 +0000",
       "cyan_bed": "2021-01-23 07:34:04 +0000",
       "stone_bricks": "2020-11-21 05:41:20 +0000",
       "basalt": "2020-12-02 04:00:22 +0000",
@@ -10585,6 +10870,7 @@
       "red_bed": "2021-01-23 07:32:44 +0000",
       "slime_block": "2021-02-18 01:16:47 +0000",
       "emerald_block": "2021-01-25 02:29:06 +0000",
+      "acacia_planks": "2021-02-25 03:42:25 +0000",
       "lapis_block": "2021-02-18 01:23:53 +0000",
       "polished_diorite_slab": "2020-11-27 23:48:21 +0000",
       "iron_block": "2020-11-30 18:51:38 +0000",
@@ -10594,6 +10880,7 @@
       "coal_ore": "2021-01-24 04:46:01 +0000",
       "red_shulker_box": "2021-01-12 03:55:58 +0000",
       "polished_andesite": "2020-11-27 21:48:57 +0000",
+      "crimson_planks": "2021-02-25 03:43:17 +0000",
       "yellow_bed": "2020-10-10 05:32:31 +0000",
       "dark_oak_slab": "2021-01-12 04:09:52 +0000",
       "netherrack": "2020-12-02 03:57:44 +0000",
@@ -10691,6 +10978,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2020-12-04 03:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:42:34 +0000"
     },
     "done": true
   },
@@ -10793,6 +11086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:42:34 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:biomes/for_you_my_sweet": {
     "criteria": {
       "dandelion": "2020-10-10 05:07:55 +0000"
@@ -10829,9 +11128,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2021-02-25 03:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/white.png": "2021-01-14 01:33:37 +0000",
+      "textures/entity/cat/jellie.png": "2021-02-25 06:03:56 +0000",
       "textures/entity/cat/british_shorthair.png": "2020-12-09 03:05:51 +0000"
     },
     "done": false
