@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "blazeandcave:combat/slime_squisher": {
+    "criteria": {
+      "slime_ball": "2021-02-26 06:14:51 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:animal/which_came_first": {
     "criteria": {
       "egg": "2020-10-10 05:08:38 +0000"
@@ -366,6 +372,12 @@
     },
     "done": true
   },
+  "blazeandcave:statistics/overlevelling": {
+    "criteria": {
+      "trigger": "2021-02-26 03:18:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2020-12-01 01:23:37 +0000"
@@ -399,6 +411,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-10-10 05:03:18 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/shotbow": {
+    "criteria": {
+      "shot_crossbow": "2021-02-26 05:50:46 +0000"
     },
     "done": true
   },
@@ -443,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2021-02-26 04:23:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/creeper_banner_pattern": {
     "criteria": {
       "has_creeper_head": "2020-12-23 05:11:32 +0000"
@@ -454,6 +478,12 @@
       "has_green_dye": "2020-11-27 06:18:39 +0000"
     },
     "done": true
+  },
+  "blazeandcave:animal/tropical_collection": {
+    "criteria": {
+      "fish10": "2021-02-26 05:48:32 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
@@ -759,6 +789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2021-02-26 04:23:49 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:bacap/statistics_milestone": {
     "criteria": {
       "who_needs_cars": "2020-11-27 04:31:56 +0000",
@@ -783,6 +819,7 @@
       "horse_training": "2020-12-19 03:00:30 +0000",
       "journeyman_enchanter": "2020-11-20 03:40:43 +0000",
       "take_to_the_skies": "2021-01-14 19:46:14 +0000",
+      "overlevelling": "2021-02-26 03:18:01 +0000",
       "root": "2020-10-10 04:59:34 +0000",
       "ancient_kung_fu_master": "2021-01-17 04:04:03 +0000",
       "laps_in_the_pool": "2020-12-09 02:13:04 +0000",
@@ -851,6 +888,12 @@
     },
     "done": true
   },
+  "blazeandcave:animal/salmonella_poisoning": {
+    "criteria": {
+      "salmon": "2021-02-26 03:54:54 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:potion/furious_ammunition": {
     "criteria": {
       "strong_strength": "2021-01-26 02:24:31 +0000",
@@ -899,6 +942,12 @@
   "blazeandcave:nether/blaze_extinguisher": {
     "criteria": {
       "blaze_rod": "2021-01-24 06:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2021-02-26 04:23:36 +0000"
     },
     "done": true
   },
@@ -985,6 +1034,7 @@
       "loyalty": "2020-12-23 02:23:41 +0000",
       "silk_touch": "2020-11-15 07:29:49 +0000",
       "quick_charge": "2020-12-01 02:48:54 +0000",
+      "binding_curse": "2021-02-26 05:58:36 +0000",
       "aqua_affinity": "2020-11-20 04:03:11 +0000",
       "multishot": "2020-12-01 02:45:14 +0000",
       "depth_strider": "2020-11-20 04:05:20 +0000",
@@ -1266,6 +1316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2021-02-26 04:23:26 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:bacap/root": {
     "criteria": {
       "location": "2020-10-10 04:52:40 +0000"
@@ -1278,12 +1334,6 @@
     },
     "done": true
   },
-  "blazeandcave:technical/castaway_start": {
-    "criteria": {
-      "dried_kelp": "2021-02-25 06:07:14 +0000"
-    },
-    "done": true
-  },
   "blazeandcave:technical/branch2_end": {
     "criteria": {
       "outer_neg_z": "2021-01-12 02:30:51 +0000"
@@ -1293,6 +1343,12 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2021-02-25 03:42:25 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/handmade_blinding": {
+    "criteria": {
+      "binding_pumpkin": "2021-02-26 05:58:46 +0000"
     },
     "done": true
   },
@@ -1334,13 +1390,16 @@
   "blazeandcave:mining/delicious_hot_schmoes": {
     "criteria": {
       "mutton": "2020-12-09 01:49:23 +0000",
+      "chicken": "2021-02-26 04:44:52 +0000",
+      "potato": "2021-02-25 23:38:08 +0000",
       "rabbit": "2021-01-26 05:48:05 +0000",
       "salmon": "2021-01-26 04:19:36 +0000",
       "cod": "2021-01-26 04:19:19 +0000",
       "beef": "2020-12-09 01:48:33 +0000",
-      "porkchop": "2021-01-26 03:26:52 +0000"
+      "porkchop": "2021-01-26 03:26:52 +0000",
+      "kelp": "2021-02-26 04:46:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/create_beacon": {
     "criteria": {
@@ -1400,6 +1459,7 @@
       "coal_miner": "2020-10-10 05:34:37 +0000",
       "rock_bottom": "2020-11-13 00:47:13 +0000",
       "living_like_kings": "2020-12-02 03:49:08 +0000",
+      "moar_broken_tools": "2021-02-26 04:50:21 +0000",
       "classic_pocket_edition_block": "2020-11-16 03:17:19 +0000",
       "enchanter": "2020-11-15 06:37:09 +0000",
       "cover_me_with_diamonds": "2020-11-20 04:18:27 +0000",
@@ -1408,10 +1468,17 @@
       "meet_the_flintstones": "2020-10-10 05:03:35 +0000",
       "sharpening_station": "2020-11-10 22:24:37 +0000",
       "diamond_clad": "2020-11-20 04:18:29 +0000",
+      "rest_in_pickaxes": "2021-02-26 04:55:18 +0000",
+      "moar_tools": "2021-02-26 04:48:17 +0000",
       "ice_bucket_challenge": "2020-10-10 05:11:37 +0000",
+      "gold_miner": "2021-02-26 04:51:09 +0000",
       "master_gold_miner": "2021-01-25 02:33:11 +0000",
+      "weve_broken_our_last_shovel": "2021-02-26 04:50:21 +0000",
       "even_moar_tools": "2020-11-15 06:38:05 +0000",
+      "bling_bling_gone": "2021-02-26 04:50:43 +0000",
+      "redstone_miner": "2021-02-26 04:51:50 +0000",
       "suit_up": "2020-10-10 06:14:18 +0000",
+      "master_diamond_miner": "2021-02-26 04:52:03 +0000",
       "the_way_to_spawn": "2020-11-11 00:40:58 +0000",
       "flint_miner": "2020-11-27 05:39:19 +0000",
       "obsidian_miner": "2021-01-24 04:53:32 +0000",
@@ -1424,6 +1491,7 @@
       "camping_out": "2020-12-09 01:48:31 +0000",
       "whats_the_time_mr_wolf": "2020-12-05 02:03:58 +0000",
       "getting_an_upgrade": "2020-10-10 05:03:05 +0000",
+      "iron_miner": "2021-02-26 04:51:41 +0000",
       "we_need_to_go_deeper": "2020-11-20 04:26:31 +0000",
       "acquire_hardware": "2020-10-10 05:11:37 +0000",
       "smooth_dude": "2020-11-16 03:16:41 +0000",
@@ -1439,6 +1507,7 @@
       "root": "2020-10-10 05:01:44 +0000",
       "heart_of_darkness": "2020-10-10 04:57:46 +0000",
       "agent_smithing_table": "2020-11-16 06:13:17 +0000",
+      "delicious_hot_schmoes": "2021-02-26 04:46:53 +0000",
       "spelunker": "2020-10-10 05:42:33 +0000",
       "washing_machine": "2021-01-25 01:59:56 +0000",
       "nananananananana": "2020-11-15 03:16:12 +0000",
@@ -1448,8 +1517,10 @@
       "hot_stuff": "2020-10-24 04:14:26 +0000",
       "not_chicken_mcnuggets": "2020-11-27 05:24:48 +0000",
       "oh_noes": "2020-10-10 05:07:38 +0000",
+      "where_are_all_your_clothes": "2021-02-26 04:50:21 +0000",
       "master_coal_miner": "2021-02-18 02:07:55 +0000",
       "diamond_miner": "2020-11-15 06:36:55 +0000",
+      "oresome": "2021-02-26 04:52:03 +0000",
       "beethoven": "2020-12-09 01:41:31 +0000",
       "renewable_energy": "2021-01-24 06:22:03 +0000",
       "stabcraft": "2020-11-15 06:38:05 +0000"
@@ -1471,6 +1542,12 @@
   "blazeandcave:statistics/level_up": {
     "criteria": {
       "trigger": "2020-11-11 01:45:38 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:coordinates_hud": {
+    "criteria": {
+      "tick": "2021-02-25 23:07:20 +0000"
     },
     "done": true
   },
@@ -1593,13 +1670,32 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2021-02-26 04:22:41 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/save_the_turtles": {
+    "criteria": {
+      "scute": "2021-02-26 04:34:51 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:mining/oresome": {
     "criteria": {
       "ancient_debris": "2021-01-17 04:45:57 +0000",
+      "lapis_ore": "2021-02-26 04:52:03 +0000",
+      "gold_ore": "2021-02-26 04:52:03 +0000",
       "coal_ore": "2021-01-24 04:46:01 +0000",
-      "redstone_ore": "2021-01-24 04:47:57 +0000"
+      "redstone_ore": "2021-01-24 04:47:57 +0000",
+      "nether_gold_ore": "2021-02-26 04:52:03 +0000",
+      "emerald_ore": "2021-02-26 04:52:03 +0000",
+      "iron_ore": "2021-02-26 04:52:03 +0000",
+      "diamond_ore": "2021-02-26 04:52:03 +0000",
+      "nether_quartz_ore": "2021-02-26 04:52:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
@@ -1610,6 +1706,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2021-01-17 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2021-02-26 04:23:49 +0000"
     },
     "done": true
   },
@@ -1673,6 +1775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2021-02-26 04:23:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-11-20 04:38:49 +0000"
@@ -1703,8 +1811,11 @@
       "overkill": "2020-11-20 04:31:03 +0000",
       "master_knight": "2020-12-02 02:32:40 +0000",
       "master_sniper": "2020-12-01 02:51:20 +0000",
+      "shotbow": "2021-02-26 05:50:47 +0000",
+      "master_axeman": "2021-02-26 05:55:38 +0000",
       "master_armorer": "2020-12-09 04:28:14 +0000",
       "zeus": "2020-12-23 04:45:08 +0000",
+      "curses": "2021-02-26 05:58:36 +0000",
       "scuba_gear": "2020-11-20 04:05:21 +0000",
       "newtons_flaming_laser_sword": "2020-11-20 03:25:24 +0000",
       "bow_down_to_me": "2020-11-20 03:54:55 +0000",
@@ -1719,6 +1830,7 @@
       "super_efficient": "2020-11-15 06:45:14 +0000",
       "boomerang": "2020-12-23 02:23:41 +0000",
       "like_a_cat": "2020-11-20 04:08:08 +0000",
+      "handmade_blinding": "2021-02-26 05:58:47 +0000",
       "undead_slayer": "2020-11-20 03:29:33 +0000"
     },
     "done": false
@@ -1950,6 +2062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2021-02-26 04:23:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2020-10-10 06:06:59 +0000"
@@ -2021,6 +2139,7 @@
       "egg": "2020-11-16 02:36:38 +0000",
       "chorus_fruit": "2021-01-12 02:38:39 +0000",
       "baked_potato": "2020-11-21 03:30:04 +0000",
+      "slime_ball": "2021-02-26 06:14:51 +0000",
       "netherite_sword": "2020-12-22 22:28:22 +0000",
       "stick": "2020-12-25 01:07:48 +0000",
       "diamond_boots": "2020-11-15 06:38:04 +0000",
@@ -2062,6 +2181,7 @@
       "warped_fungus_on_a_stick": "2021-01-15 03:29:33 +0000",
       "nether_wart": "2020-11-20 05:27:48 +0000",
       "wheat_seeds": "2020-11-11 03:48:07 +0000",
+      "stone_shovel": "2021-02-26 04:48:17 +0000",
       "furnace_minecart": "2020-12-20 03:28:51 +0000",
       "netherite_axe": "2020-12-22 22:24:42 +0000",
       "diamond_sword": "2020-11-15 06:38:04 +0000",
@@ -2162,6 +2282,7 @@
       "fishing_rod": "2020-10-10 06:15:32 +0000",
       "netherite_chestplate": "2020-12-22 22:23:52 +0000",
       "quartz": "2020-11-20 05:34:21 +0000",
+      "leather_horse_armor": "2021-02-26 04:29:21 +0000",
       "beetroot": "2020-11-13 01:10:24 +0000",
       "hopper_minecart": "2020-11-27 04:44:16 +0000",
       "diamond": "2020-11-15 06:36:55 +0000",
@@ -2278,6 +2399,12 @@
     },
     "done": true
   },
+  "blazeandcave:animal/sushi": {
+    "criteria": {
+      "cod": "2021-02-26 03:55:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_acacia_planks": "2021-02-25 03:42:25 +0000"
@@ -2293,6 +2420,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2020-11-27 20:57:30 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/poacher": {
+    "criteria": {
+      "turtle": "2021-02-26 04:38:49 +0000"
     },
     "done": true
   },
@@ -2392,6 +2525,12 @@
     },
     "done": true
   },
+  "blazeandcave:enchanting/master_axeman": {
+    "criteria": {
+      "perfect_axe_fortune": "2021-02-26 05:55:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2020-10-10 05:06:40 +0000"
@@ -2470,6 +2609,12 @@
     },
     "done": true
   },
+  "blazeandcave:adventure/redemption_arc": {
+    "criteria": {
+      "redemption_arc": "2021-02-26 05:20:46 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:nether/ghast_slayer": {
     "criteria": {
       "ghast_tear": "2021-01-26 02:54:45 +0000"
@@ -2478,9 +2623,14 @@
   },
   "blazeandcave:animal/bunny_lover": {
     "criteria": {
-      "gold": "2021-01-26 05:22:25 +0000"
+      "gold": "2021-01-26 05:22:25 +0000",
+      "salt_and_pepper": "2021-02-26 04:40:31 +0000",
+      "white": "2021-02-26 04:40:31 +0000",
+      "black": "2021-02-26 04:40:31 +0000",
+      "black_and_white": "2021-02-26 04:40:31 +0000",
+      "brown": "2021-02-26 04:40:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
@@ -2512,6 +2662,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2021-02-26 04:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2021-02-26 04:22:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2021-02-26 04:22:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/ride_strider": {
     "criteria": {
       "used_warped_fungus_on_a_stick": "2021-01-15 04:16:07 +0000"
@@ -2521,6 +2689,12 @@
   "minecraft:adventure/sniper_duel": {
     "criteria": {
       "killed_skeleton": "2021-01-12 04:55:51 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/do_you_want_to_build_a_snowman": {
+    "criteria": {
+      "summoned": "2021-02-26 06:12:40 +0000"
     },
     "done": true
   },
@@ -2573,6 +2747,7 @@
       "a_wizards_breakfast": "2021-01-16 02:38:34 +0000",
       "the_actual_end": "2021-01-16 03:17:03 +0000",
       "somewhere_over_the_rainbow": "2021-01-23 05:42:00 +0000",
+      "organizational_wizard": "2021-02-26 03:25:38 +0000",
       "event_horizon": "2021-01-17 06:34:44 +0000",
       "remote_getaway": "2021-01-12 02:30:52 +0000",
       "some_breakthrough": "2021-02-18 04:22:04 +0000",
@@ -2666,9 +2841,10 @@
   },
   "blazeandcave:animal/chicken_cooper": {
     "criteria": {
-      "feather": "2020-12-05 02:20:05 +0000"
+      "feather": "2020-12-05 02:20:05 +0000",
+      "chicken": "2021-02-26 04:40:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "blazeandcave:technical/branch4_end": {
     "criteria": {
@@ -2737,6 +2913,12 @@
     },
     "done": true
   },
+  "blazeandcave:farming/unmasked": {
+    "criteria": {
+      "shears": "2021-02-26 06:12:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2020-11-21 05:01:36 +0000"
@@ -2764,6 +2946,12 @@
   "blazeandcave:enchanting/master_tridenteer": {
     "criteria": {
       "perfect_trident_loyalty": "2020-12-23 04:45:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/bling_bling_gone": {
+    "criteria": {
+      "break_pickaxe": "2021-02-26 04:50:43 +0000"
     },
     "done": true
   },
@@ -3032,6 +3220,7 @@
       "unbreaking1": "2020-11-11 00:35:37 +0000",
       "unbreaking3": "2020-11-15 03:15:54 +0000",
       "unbreaking2": "2020-11-16 01:49:10 +0000",
+      "binding_curse": "2021-02-26 05:58:36 +0000",
       "depth_strider2": "2021-01-15 04:30:17 +0000",
       "soul_speed2": "2020-12-09 03:46:46 +0000",
       "depth_strider3": "2020-11-20 04:05:20 +0000",
@@ -3144,9 +3333,10 @@
       "mason": "2020-12-19 04:05:03 +0000",
       "armorer": "2020-11-16 03:28:13 +0000",
       "farmer": "2020-11-13 03:44:08 +0000",
-      "fisherman": "2020-11-16 03:27:01 +0000"
+      "fisherman": "2020-11-16 03:27:01 +0000",
+      "leatherworker": "2021-02-26 05:34:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "blazeandcave:animal/delicious_fish": {
     "criteria": {
@@ -3293,9 +3483,14 @@
   },
   "blazeandcave:mining/weve_broken_our_last_shovel": {
     "criteria": {
-      "iron_shovel": "2020-11-10 22:06:48 +0000"
+      "iron_shovel": "2020-11-10 22:06:48 +0000",
+      "stone_shovel": "2021-02-26 04:50:21 +0000",
+      "wooden_shovel": "2021-02-26 04:50:21 +0000",
+      "gold_shovel": "2021-02-26 04:50:21 +0000",
+      "netherite_shovel": "2021-02-26 04:50:21 +0000",
+      "diamond_shovel": "2021-02-26 04:50:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "blazeandcave:enchanting/to_infinity_and_beyond": {
     "criteria": {
@@ -3306,6 +3501,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-10-10 06:00:10 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:combat/the_undead_cavalry": {
+    "criteria": {
+      "skeleton_horse": "2021-02-26 03:37:05 +0000"
     },
     "done": true
   },
@@ -3645,6 +3846,7 @@
       "enders_chest": "2020-11-28 07:46:10 +0000",
       "enchanting_root": "2020-11-15 06:45:09 +0000",
       "take_aim": "2020-11-11 02:20:42 +0000",
+      "bling_bling_gone": "2021-02-26 04:50:43 +0000",
       "cultural_misunderstandings": "2020-11-20 05:17:33 +0000",
       "suit_up": "2020-10-10 06:14:18 +0000",
       "stone_age": "2020-10-10 05:01:59 +0000",
@@ -3663,6 +3865,7 @@
       "i_am_root": "2020-12-20 04:13:52 +0000",
       "its_a_trap": "2020-11-11 03:26:57 +0000",
       "whos_the_pillager_now": "2021-01-17 02:27:01 +0000",
+      "salmonella_poisoning": "2021-02-26 03:54:54 +0000",
       "feeding_the_chickens": "2020-11-13 03:11:23 +0000",
       "moving_moving_storage": "2020-11-27 04:44:17 +0000",
       "brute_force": "2020-12-09 03:59:44 +0000",
@@ -3684,6 +3887,7 @@
       "acquire_hardware": "2020-10-10 05:11:37 +0000",
       "hive_mind": "2020-12-13 03:40:04 +0000",
       "egging_dude": "2020-11-13 04:11:29 +0000",
+      "totally_not_an_afk_fisher": "2021-02-26 04:39:14 +0000",
       "ancient_kung_fu_master": "2021-01-17 04:04:03 +0000",
       "suspicious_looking_stew": "2020-11-11 04:40:29 +0000",
       "iron_man": "2020-10-10 06:14:22 +0000",
@@ -3700,12 +3904,14 @@
       "to_infinity_and_beyond": "2020-12-23 03:57:34 +0000",
       "bling_plate": "2020-11-27 23:37:14 +0000",
       "very_very_frightening": "2020-12-23 05:02:34 +0000",
+      "bunny_lover": "2021-02-26 04:40:31 +0000",
       "spooky_skeleton": "2020-10-10 06:00:50 +0000",
       "out_of_posts": "2021-01-15 23:46:53 +0000",
       "wub_wub_wub": "2020-12-09 04:15:14 +0000",
       "lapis_lazuli_miner": "2021-02-18 01:23:54 +0000",
       "the_nethers_shield": "2020-11-20 05:23:54 +0000",
       "nugget_in_a_biscuit": "2020-11-20 04:37:07 +0000",
+      "fashion_statement": "2021-02-26 03:31:36 +0000",
       "spring_in_your_step": "2020-11-10 20:59:09 +0000",
       "blast_shield": "2020-10-10 05:47:12 +0000",
       "supersonic": "2021-01-25 02:14:00 +0000",
@@ -3718,6 +3924,7 @@
       "bring_down_the_beast": "2021-01-26 02:54:36 +0000",
       "im_in_lava_with_you": "2021-01-26 02:52:39 +0000",
       "a_snowballs_chance_in_hell": "2021-01-26 02:50:09 +0000",
+      "redemption_arc": "2021-02-26 05:20:46 +0000",
       "the_ender_of_ender": "2020-11-11 02:22:30 +0000",
       "the_aquatic_hunter": "2021-01-26 02:26:18 +0000",
       "washing_machine": "2021-01-25 01:59:56 +0000",
@@ -3729,6 +3936,7 @@
       "grinding_nemo": "2020-12-23 00:21:28 +0000",
       "noxious_fumes": "2021-01-16 04:51:13 +0000",
       "black_belt_ninja": "2020-11-16 05:41:07 +0000",
+      "gold_miner": "2021-02-26 04:51:09 +0000",
       "farming_root": "2020-10-10 05:15:12 +0000",
       "overkill": "2020-11-20 04:31:03 +0000",
       "delicious_fish": "2020-12-02 03:55:38 +0000",
@@ -3744,12 +3952,16 @@
       "horse_training": "2020-12-19 03:00:30 +0000",
       "super_strength": "2021-01-16 05:24:06 +0000",
       "desert_nomad": "2020-12-22 01:10:53 +0000",
+      "overlevelling": "2021-02-26 03:18:01 +0000",
+      "save_the_turtles": "2021-02-26 04:34:51 +0000",
       "a_seedy_place": "2020-11-10 21:45:34 +0000",
       "music_to_my_ears": "2020-12-13 01:33:43 +0000",
       "sticky_situation": "2021-02-18 03:10:50 +0000",
       "boaty_mcboatface": "2020-11-11 01:59:38 +0000",
       "sniper_duel": "2021-01-12 04:55:52 +0000",
+      "the_undead_cavalry": "2021-02-26 03:37:05 +0000",
       "not_quite_nine_lives": "2020-12-20 04:25:18 +0000",
+      "chicken_cooper": "2021-02-26 04:40:53 +0000",
       "stabcraft": "2020-11-15 06:38:05 +0000",
       "your_door_was_locked": "2020-11-10 22:09:45 +0000",
       "benchmarking": "2020-10-10 05:00:41 +0000",
@@ -3768,6 +3980,7 @@
       "for_mother_clarence": "2021-01-12 03:10:33 +0000",
       "fossil_fuel": "2020-10-10 05:03:58 +0000",
       "laser_sharks": "2020-12-22 23:50:29 +0000",
+      "horse_armorer": "2021-02-26 04:29:21 +0000",
       "milk_does_your_body_good": "2020-11-13 03:42:17 +0000",
       "the_point_of_no_return": "2020-11-15 05:43:40 +0000",
       "the_deep_end": "2020-12-22 23:48:53 +0000",
@@ -3805,6 +4018,7 @@
       "its_original_form": "2020-11-16 03:16:45 +0000",
       "crazy_cat_lady": "2020-12-09 03:05:52 +0000",
       "classy_glassy": "2020-11-10 22:32:31 +0000",
+      "poacher": "2021-02-26 04:38:49 +0000",
       "dispense_with_this": "2020-11-27 04:33:18 +0000",
       "filthy_rich": "2020-11-15 07:33:52 +0000",
       "snowball_fight": "2021-01-26 02:32:59 +0000",
@@ -3816,6 +4030,7 @@
       "witchcraft": "2020-12-09 02:16:00 +0000",
       "rekt": "2020-11-14 05:50:25 +0000",
       "ya_like_jazz": "2020-12-09 02:29:52 +0000",
+      "oresome": "2021-02-26 04:52:03 +0000",
       "house_of_psychos": "2021-02-25 05:09:13 +0000",
       "moskstraumen": "2020-12-23 00:15:51 +0000",
       "when_pigs_used_to_fly": "2021-01-26 03:47:03 +0000",
@@ -3831,8 +4046,10 @@
       "not_today_thank_you": "2020-10-10 06:10:32 +0000",
       "cowboy": "2020-11-15 05:14:47 +0000",
       "local_brewery": "2020-11-21 02:34:30 +0000",
+      "slime_squisher": "2021-02-26 06:14:51 +0000",
       "one_with_the_forest": "2020-11-11 01:15:37 +0000",
       "tripping_over": "2020-11-13 02:56:25 +0000",
+      "master_axeman": "2021-02-26 05:55:38 +0000",
       "spooky_skulls": "2020-12-23 05:07:25 +0000",
       "ew_ew_ew": "2020-10-10 06:05:14 +0000",
       "kilometre_walk": "2020-11-20 04:43:11 +0000",
@@ -3859,9 +4076,12 @@
       "beaconator": "2020-12-22 04:36:45 +0000",
       "knocking_your_socks_off": "2020-11-20 03:22:49 +0000",
       "still_talking": "2020-12-23 05:04:17 +0000",
+      "moar_tools": "2021-02-26 04:48:17 +0000",
+      "redstone_miner": "2021-02-26 04:51:50 +0000",
       "bow_spammer": "2020-12-05 01:14:23 +0000",
       "are_we_there_yet": "2020-12-19 08:41:17 +0000",
       "obsidian_miner": "2021-01-24 04:53:32 +0000",
+      "shotbow": "2021-02-26 05:50:47 +0000",
       "monsters_root": "2020-10-10 05:05:36 +0000",
       "magic_book": "2020-11-15 07:27:15 +0000",
       "spikey": "2020-12-22 23:17:22 +0000",
@@ -3893,9 +4113,12 @@
       "dry_spell": "2021-01-14 19:43:06 +0000",
       "dark_ages": "2020-11-20 04:38:49 +0000",
       "rainbow_dreams": "2021-01-23 07:34:04 +0000",
+      "live_and_let_dye": "2021-02-26 04:26:17 +0000",
       "death_by_magic": "2021-01-25 00:49:12 +0000",
       "naturally_carved": "2020-10-10 06:12:42 +0000",
+      "unmasked": "2021-02-26 06:12:42 +0000",
       "fiery": "2020-11-20 03:53:43 +0000",
+      "rainbow_collection": "2021-02-26 04:23:49 +0000",
       "dont_blink": "2020-12-02 04:10:30 +0000",
       "skys_the_limit": "2021-01-12 03:14:31 +0000",
       "spider_smasher": "2021-01-14 01:41:51 +0000",
@@ -3903,6 +4126,7 @@
       "mozart": "2020-12-09 01:41:22 +0000",
       "atlantis": "2020-12-22 23:59:23 +0000",
       "master_sniper": "2020-12-01 02:51:20 +0000",
+      "do_you_want_to_build_a_snowman": "2021-02-26 06:12:40 +0000",
       "speech_speech_speech": "2020-11-11 02:53:01 +0000",
       "bamboom": "2020-12-23 03:25:36 +0000",
       "camping_out": "2020-12-09 01:48:31 +0000",
@@ -3927,6 +4151,7 @@
       "the_tribal_snouts": "2020-11-20 05:06:27 +0000",
       "metal_plate": "2020-12-09 01:27:29 +0000",
       "gotta_go_fast": "2020-12-09 03:16:36 +0000",
+      "businessman": "2021-02-26 05:34:35 +0000",
       "master_knight": "2020-12-02 02:32:40 +0000",
       "glowstone_miner": "2020-11-22 02:45:13 +0000",
       "pathways": "2020-11-10 22:02:46 +0000",
@@ -3952,6 +4177,8 @@
       "like_a_cat": "2020-11-20 04:08:08 +0000",
       "enchanted_forest": "2020-12-22 03:48:03 +0000",
       "comparing_comparator": "2020-11-27 05:46:37 +0000",
+      "where_are_all_your_clothes": "2021-02-26 04:50:21 +0000",
+      "tactical_fishing": "2021-02-26 05:48:25 +0000",
       "undead_slayer": "2020-11-20 03:29:33 +0000",
       "poseidon_vs_hades": "2021-01-26 02:26:18 +0000",
       "beethoven": "2020-12-09 01:41:31 +0000",
@@ -3977,8 +4204,10 @@
       "poison_dart": "2021-01-25 00:54:24 +0000",
       "in_a_pickle": "2021-02-18 01:24:39 +0000",
       "the_mistake": "2020-12-04 03:46:39 +0000",
+      "delicious_hot_schmoes": "2021-02-26 04:46:53 +0000",
       "when_pigs_finally_fly": "2021-01-26 03:25:10 +0000",
       "zombie_slayer": "2020-11-15 02:53:51 +0000",
+      "shoe_shed": "2021-02-26 03:52:42 +0000",
       "armor_display": "2021-01-24 06:05:58 +0000",
       "for_you_my_sweet": "2020-10-10 05:07:56 +0000",
       "your_daily_fix": "2020-11-16 05:02:02 +0000",
@@ -3992,12 +4221,14 @@
       "hopping_mad": "2020-12-13 01:28:36 +0000",
       "have_a_shearful_day": "2020-10-10 06:13:47 +0000",
       "natural_fertiliser": "2020-11-13 01:17:35 +0000",
+      "moar_broken_tools": "2021-02-26 04:50:21 +0000",
       "slapfish": "2021-01-26 04:19:00 +0000",
       "hyper_healing": "2021-01-25 00:57:02 +0000",
       "master_farmer": "2020-11-20 03:56:32 +0000",
       "master_miner": "2020-11-15 07:27:23 +0000",
       "time_to_fire_back": "2021-01-24 06:20:31 +0000",
       "giant_floating_jellyfish": "2020-11-28 07:17:05 +0000",
+      "sushi": "2021-02-26 03:55:20 +0000",
       "trampoline": "2020-12-13 05:50:37 +0000",
       "its_a_cactus": "2020-12-22 01:10:39 +0000",
       "railwayman": "2021-01-24 06:17:25 +0000",
@@ -4008,7 +4239,9 @@
       "display_your_items_for_all_to_see": "2020-12-02 03:32:02 +0000",
       "torched": "2020-10-10 05:26:14 +0000",
       "hot_tourist_destination": "2020-11-20 04:44:24 +0000",
+      "fuzzy_feet": "2021-02-26 04:28:48 +0000",
       "blast_it": "2020-11-10 22:24:54 +0000",
+      "curses": "2021-02-26 05:58:36 +0000",
       "scuba_gear": "2020-11-20 04:05:21 +0000",
       "when_piglins_fly": "2021-01-26 02:53:40 +0000",
       "i_dont_like_sand": "2020-11-10 22:06:46 +0000",
@@ -4041,10 +4274,12 @@
       "yay_i_got_my_wood": "2021-01-26 05:51:51 +0000",
       "ultra_hardcore": "2020-11-22 06:21:35 +0000",
       "theres_a_zombie_on_the_lawn": "2020-12-25 01:32:10 +0000",
+      "organizational_wizard": "2021-02-26 03:25:38 +0000",
       "bombs_away": "2020-12-20 03:53:06 +0000",
       "master_armorer": "2020-12-09 04:28:14 +0000",
       "overpowered": "2021-02-02 03:42:41 +0000",
       "the_lie": "2020-11-13 04:12:34 +0000",
+      "iron_miner": "2021-02-26 04:51:41 +0000",
       "the_hunt_begins": "2020-11-20 05:15:54 +0000",
       "dont_step_on_it": "2020-11-28 07:12:21 +0000",
       "the_first_night": "2020-10-10 04:59:34 +0000",
@@ -4065,6 +4300,7 @@
       "souperman": "2020-11-13 04:12:01 +0000",
       "winnie_the_pooh": "2020-11-28 07:34:51 +0000",
       "master_iron_miner": "2020-11-30 18:51:38 +0000",
+      "rest_in_pickaxes": "2021-02-26 04:55:18 +0000",
       "theres_yolk_on_my_head": "2021-01-26 02:32:25 +0000",
       "unbreakable": "2020-11-15 07:27:23 +0000",
       "artificial_selection": "2020-12-19 08:43:06 +0000",
@@ -4088,10 +4324,13 @@
       "machine_bow": "2020-12-13 02:11:18 +0000",
       "gas": "2021-01-25 01:08:38 +0000",
       "keep_your_distance": "2020-11-11 02:21:13 +0000",
+      "in_a_hole_there_lived_a_rabbit": "2021-02-26 04:40:31 +0000",
       "what_a_pane": "2020-11-20 05:54:21 +0000",
       "somewhere_over_the_rainbow": "2021-01-23 05:42:00 +0000",
       "super_efficient": "2020-11-15 06:45:14 +0000",
+      "handmade_blinding": "2021-02-26 05:58:47 +0000",
       "mapmaker": "2020-11-11 02:27:30 +0000",
+      "foal_play": "2021-02-26 03:58:45 +0000",
       "puppies_yipe": "2020-12-19 08:39:09 +0000",
       "anchorman": "2020-12-20 04:25:13 +0000",
       "cool_kids": "2020-11-14 05:35:37 +0000",
@@ -4136,6 +4375,7 @@
       "repopulation": "2020-11-13 03:37:02 +0000",
       "electric_rails": "2020-11-11 04:36:10 +0000",
       "someones_been_here_before": "2020-12-09 03:01:39 +0000",
+      "rabbit_season": "2021-02-26 06:03:38 +0000",
       "bacap_root": "2020-10-10 04:52:41 +0000",
       "mannequin": "2020-11-30 18:24:11 +0000",
       "performance_enhancing_drugs": "2020-11-28 05:02:55 +0000",
@@ -4146,8 +4386,10 @@
       "diamond_clad": "2020-11-20 04:18:29 +0000",
       "the_invisible_player": "2021-01-25 01:10:10 +0000",
       "withering_heights": "2020-12-22 04:07:14 +0000",
+      "weve_broken_our_last_shovel": "2021-02-26 04:50:21 +0000",
       "weaponry_root": "2020-10-10 05:05:36 +0000",
       "under_pressure": "2020-11-21 05:01:08 +0000",
+      "master_diamond_miner": "2021-02-26 04:52:03 +0000",
       "viking": "2020-11-10 21:16:22 +0000",
       "master_tridenteer": "2020-12-23 04:45:08 +0000",
       "happy_birthday": "2020-12-09 02:00:57 +0000",
@@ -4172,6 +4414,7 @@
       "glows_in_the_dark": "2021-01-17 07:25:04 +0000",
       "bobbleheads": "2020-12-20 04:22:23 +0000",
       "the_haggler": "2020-11-20 03:16:37 +0000",
+      "an_amazing_story": "2021-02-26 06:11:33 +0000",
       "mega_mushroom": "2020-12-04 03:02:38 +0000",
       "the_actual_end": "2021-01-16 03:17:03 +0000",
       "festival_of_lights": "2020-11-27 05:28:12 +0000",
@@ -4276,6 +4519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2021-02-26 04:22:29 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:statistics/out_for_a_stroll": {
     "criteria": {
       "trigger": "2020-11-11 01:32:39 +0000"
@@ -4342,10 +4591,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2021-02-26 04:59:43 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:bacap/farming_milestone": {
     "criteria": {
       "naturally_carved": "2020-10-10 06:12:42 +0000",
       "natural_fertiliser": "2020-11-13 01:17:35 +0000",
+      "unmasked": "2021-02-26 06:12:42 +0000",
       "scientific_inaccuracy": "2020-11-16 01:06:10 +0000",
       "souperman": "2020-11-13 04:12:01 +0000",
       "24_carrot_gold": "2020-11-27 06:24:32 +0000",
@@ -4358,6 +4614,7 @@
       "kelp_me": "2020-12-20 04:45:42 +0000",
       "hay_there": "2021-01-26 05:34:18 +0000",
       "bake_bread": "2020-10-10 05:51:46 +0000",
+      "do_you_want_to_build_a_snowman": "2021-02-26 06:12:40 +0000",
       "the_melon_the_melon_the_melon": "2020-11-20 03:18:25 +0000",
       "spikey": "2020-12-22 23:17:22 +0000",
       "berry_nice": "2020-12-04 02:09:14 +0000",
@@ -4375,6 +4632,7 @@
       "write_your_thoughts": "2020-11-15 07:26:43 +0000",
       "its_full_of_ink": "2020-11-10 22:07:07 +0000",
       "suspicious_looking_stew": "2020-11-11 04:40:29 +0000",
+      "an_amazing_story": "2021-02-26 06:11:33 +0000",
       "mega_mushroom": "2020-12-04 03:02:38 +0000",
       "care_for_the_environment": "2020-11-27 06:06:42 +0000",
       "ecologist": "2021-02-25 03:08:36 +0000",
@@ -4537,6 +4795,7 @@
       "armor_stand": "2020-11-30 18:24:11 +0000",
       "wheat_seeds": "2020-10-10 05:06:11 +0000",
       "mutton": "2020-10-10 05:06:41 +0000",
+      "stone_shovel": "2021-02-26 04:48:17 +0000",
       "furnace_minecart": "2020-12-20 03:28:51 +0000",
       "netherite_axe": "2020-12-22 22:24:42 +0000",
       "diamond_sword": "2020-11-15 06:38:04 +0000",
@@ -4643,6 +4902,7 @@
       "shears": "2020-10-10 06:13:47 +0000",
       "splash_potion": "2020-11-21 03:14:28 +0000",
       "iron_nugget": "2020-11-27 05:24:47 +0000",
+      "written_book": "2021-02-26 06:11:33 +0000",
       "chainmail_boots": "2020-11-30 18:26:22 +0000",
       "rabbit_hide": "2020-12-22 23:09:35 +0000",
       "ghast_tear": "2020-11-28 07:17:04 +0000",
@@ -4679,6 +4939,7 @@
       "netherite_chestplate": "2020-12-22 22:23:52 +0000",
       "pufferfish": "2020-11-13 02:55:44 +0000",
       "quartz": "2020-11-20 04:38:34 +0000",
+      "leather_horse_armor": "2021-02-26 04:29:21 +0000",
       "fermented_spider_eye": "2020-11-21 02:58:26 +0000",
       "beetroot": "2020-11-11 01:25:53 +0000",
       "hopper_minecart": "2020-11-27 04:44:16 +0000",
@@ -4732,6 +4993,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "pufferfish_bucket": "2021-02-26 05:48:25 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:mining/gold_rush": {
     "criteria": {
       "gold_ingot": "2020-10-10 06:02:01 +0000"
@@ -4771,6 +5038,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-10-10 05:06:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2021-02-26 04:23:04 +0000"
     },
     "done": true
   },
@@ -4825,6 +5098,27 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_chestplate": "2020-11-14 06:22:58 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/live_and_let_dye": {
+    "criteria": {
+      "light_blue_dye": "2021-02-26 04:26:12 +0000",
+      "purple_dye": "2021-02-26 04:26:00 +0000",
+      "light_gray_dye": "2021-02-26 04:25:31 +0000",
+      "magenta_dye": "2021-02-26 04:26:02 +0000",
+      "green_dye": "2021-02-26 04:26:14 +0000",
+      "orange_dye": "2021-02-26 04:25:39 +0000",
+      "lime_dye": "2021-02-26 04:26:16 +0000",
+      "gray_dye": "2021-02-26 04:25:33 +0000",
+      "red_dye": "2021-02-26 04:25:37 +0000",
+      "pink_dye": "2021-02-26 04:26:04 +0000",
+      "brown_dye": "2021-02-26 04:25:35 +0000",
+      "cyan_dye": "2021-02-26 04:26:07 +0000",
+      "white_dye": "2021-02-26 04:25:29 +0000",
+      "yellow_dye": "2021-02-26 04:25:41 +0000",
+      "blue_dye": "2021-02-26 04:26:05 +0000",
+      "black_dye": "2021-02-26 04:25:27 +0000"
     },
     "done": true
   },
@@ -5055,6 +5349,12 @@
     },
     "done": true
   },
+  "blazeandcave:animal/fashion_statement": {
+    "criteria": {
+      "white": "2021-02-26 03:31:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-10-24 04:19:34 +0000"
@@ -5100,6 +5400,7 @@
       "not_today_thank_you": "2020-10-10 06:10:32 +0000",
       "the_phantom_menace": "2020-11-28 00:51:28 +0000",
       "spooky_skeleton": "2020-10-10 06:00:50 +0000",
+      "slime_squisher": "2021-02-26 06:14:51 +0000",
       "a_watery_grave": "2020-12-09 02:14:22 +0000",
       "plane_walker": "2021-01-12 02:21:43 +0000",
       "creeper_killer": "2020-12-20 03:52:52 +0000",
@@ -5127,6 +5428,7 @@
       "zombie_slayer": "2020-11-15 02:53:51 +0000",
       "enderman_destroyer": "2020-12-22 03:13:35 +0000",
       "monster_hunter": "2020-10-10 05:10:55 +0000",
+      "the_undead_cavalry": "2021-02-26 03:37:05 +0000",
       "creepy_heads": "2020-12-23 05:11:32 +0000",
       "there_has_to_be_another_way": "2020-11-16 04:28:12 +0000",
       "witch": "2020-12-05 04:32:19 +0000",
@@ -5204,18 +5506,45 @@
     "criteria": {
       "iron_hoe": "2020-11-13 01:15:14 +0000",
       "shield": "2020-11-13 01:32:24 +0000",
+      "carrot_on_a_stick": "2021-02-26 04:50:21 +0000",
+      "crossbow": "2021-02-26 04:50:21 +0000",
+      "wooden_shovel": "2021-02-26 04:50:21 +0000",
+      "gold_axe": "2021-02-26 04:50:21 +0000",
+      "bow": "2021-02-26 04:50:21 +0000",
       "stone_sword": "2020-11-10 21:29:42 +0000",
+      "diamond_shovel": "2021-02-26 04:50:21 +0000",
+      "wooden_axe": "2021-02-26 04:50:21 +0000",
       "iron_axe": "2020-11-13 01:12:14 +0000",
+      "gold_sword": "2021-02-26 04:50:21 +0000",
       "shears": "2020-11-13 01:18:58 +0000",
+      "warped_fungus_on_a_stick": "2021-02-26 04:50:21 +0000",
       "iron_sword": "2020-11-14 04:49:35 +0000",
       "iron_pickaxe": "2020-11-10 21:21:49 +0000",
+      "diamond_axe": "2021-02-26 04:50:21 +0000",
+      "netherite_sword": "2021-02-26 04:50:21 +0000",
+      "gold_pickaxe": "2021-02-26 04:50:21 +0000",
       "stone_pickaxe": "2020-10-10 05:24:48 +0000",
+      "netherite_pickaxe": "2021-02-26 04:50:21 +0000",
       "fishing_rod": "2021-01-26 03:18:12 +0000",
+      "wooden_hoe": "2021-02-26 04:50:21 +0000",
+      "stone_shovel": "2021-02-26 04:50:21 +0000",
+      "trident": "2021-02-26 04:50:21 +0000",
       "wooden_pickaxe": "2020-10-10 05:07:38 +0000",
+      "diamond_pickaxe": "2021-02-26 04:50:21 +0000",
+      "gold_shovel": "2021-02-26 04:50:21 +0000",
+      "diamond_hoe": "2021-02-26 04:50:21 +0000",
+      "wooden_sword": "2021-02-26 04:50:21 +0000",
+      "netherite_axe": "2021-02-26 04:50:21 +0000",
+      "stone_hoe": "2021-02-26 04:50:21 +0000",
+      "diamond_sword": "2021-02-26 04:50:21 +0000",
       "iron_shovel": "2020-11-10 22:06:48 +0000",
+      "netherite_shovel": "2021-02-26 04:50:21 +0000",
+      "gold_hoe": "2021-02-26 04:50:21 +0000",
+      "flint_and_steel": "2021-02-26 04:50:21 +0000",
+      "netherite_hoe": "2021-02-26 04:50:21 +0000",
       "stone_axe": "2020-11-10 21:46:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "blazeandcave:adventure/if_only_cats_grew_into_kittens": {
     "criteria": {
@@ -5600,17 +5929,25 @@
       "pufferfish": "2020-11-13 02:55:44 +0000",
       "potion": "2020-12-01 02:36:04 +0000",
       "rotten_flesh": "2020-11-13 02:56:07 +0000",
+      "string": "2021-02-26 04:39:14 +0000",
+      "saddle": "2021-02-26 04:39:14 +0000",
       "tripwire_hook": "2020-11-13 02:56:25 +0000",
       "salmon": "2020-11-13 02:48:54 +0000",
+      "ink_sac": "2021-02-26 04:39:14 +0000",
+      "bone": "2021-02-26 04:39:14 +0000",
       "bow": "2020-12-09 03:03:33 +0000",
       "bowl": "2020-12-01 02:35:17 +0000",
       "tropical_fish": "2021-01-14 22:04:26 +0000",
+      "leather": "2021-02-26 04:39:14 +0000",
       "lily_pad": "2020-12-09 03:04:16 +0000",
+      "bamboo": "2021-02-26 04:39:14 +0000",
       "cod": "2020-11-30 19:47:57 +0000",
       "stick": "2020-11-30 19:48:22 +0000",
-      "nautilus_shell": "2021-02-25 04:14:07 +0000"
+      "name_tag": "2021-02-26 04:39:14 +0000",
+      "nautilus_shell": "2021-02-25 04:14:07 +0000",
+      "enchanted_book": "2021-02-26 04:39:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "blazeandcave:weaponry/explosive_fire": {
     "criteria": {
@@ -5684,6 +6021,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2021-02-26 04:22:36 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:statistics/horse_training": {
     "criteria": {
       "trigger": "2020-12-19 03:00:29 +0000"
@@ -5746,7 +6089,8 @@
   },
   "blazeandcave:building/crazy_walls": {
     "criteria": {
-      "stone_brick_wall": "2020-11-27 22:00:25 +0000"
+      "stone_brick_wall": "2020-11-27 22:00:25 +0000",
+      "cobblestone_wall": "2021-02-25 23:51:52 +0000"
     },
     "done": false
   },
@@ -6146,6 +6490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2021-02-26 04:22:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2020-10-10 06:15:22 +0000"
@@ -6306,6 +6656,12 @@
     },
     "done": true
   },
+  "blazeandcave:mining/rest_in_pickaxes": {
+    "criteria": {
+      "break_pickaxe": "2021-02-26 04:55:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2021-01-25 03:38:43 +0000"
@@ -6342,6 +6698,12 @@
     },
     "done": true
   },
+  "blazeandcave:animal/rabbit_season": {
+    "criteria": {
+      "cooked_rabbit": "2021-02-26 06:03:38 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:weaponry/point_blank": {
     "criteria": {
       "point_blank": "2020-11-13 06:27:45 +0000"
@@ -6352,6 +6714,7 @@
     "criteria": {
       "dead_bubble_coral": "2021-02-18 01:25:02 +0000",
       "horn_coral_block": "2021-01-24 05:03:10 +0000",
+      "tube_coral_block": "2021-02-26 05:46:34 +0000",
       "brain_coral_block": "2021-02-25 03:35:23 +0000",
       "fire_coral_block": "2020-12-19 07:46:23 +0000",
       "bubble_coral_block": "2021-01-26 05:51:12 +0000"
@@ -6456,6 +6819,7 @@
       "end_rod": "2021-01-12 03:12:49 +0000",
       "pink_stained_glass": "2021-02-18 02:18:10 +0000",
       "piston": "2020-11-27 22:21:11 +0000",
+      "cobblestone_wall": "2021-02-25 23:51:52 +0000",
       "ender_chest": "2020-11-28 07:46:09 +0000",
       "light_gray_wool": "2020-12-04 05:18:43 +0000",
       "sunflower": "2020-12-25 01:32:09 +0000",
@@ -6474,6 +6838,7 @@
       "stone_slab": "2020-11-16 03:19:04 +0000",
       "dandelion": "2020-10-10 05:07:55 +0000",
       "pink_bed": "2021-01-23 07:34:04 +0000",
+      "red_wool": "2021-02-26 04:23:49 +0000",
       "rose_bush": "2020-12-09 01:20:11 +0000",
       "black_wool": "2020-11-11 01:02:39 +0000",
       "stone_button": "2020-11-12 21:58:47 +0000",
@@ -6499,9 +6864,13 @@
       "wither_skeleton_skull": "2020-11-28 07:21:46 +0000",
       "beehive": "2020-12-13 03:39:30 +0000",
       "dispenser": "2020-11-27 04:33:17 +0000",
+      "purple_wool": "2021-02-26 04:23:26 +0000",
       "lilac": "2020-12-04 05:27:22 +0000",
       "chorus_flower": "2021-01-12 02:37:49 +0000",
+      "lime_wool": "2021-02-26 04:22:16 +0000",
+      "soul_torch": "2021-02-26 04:59:43 +0000",
       "redstone_lamp": "2020-11-27 05:06:11 +0000",
+      "orange_wool": "2021-02-26 04:23:36 +0000",
       "coal_block": "2020-11-13 00:09:01 +0000",
       "heavy_weighted_pressure_plate": "2020-12-09 01:27:29 +0000",
       "birch_leaves": "2020-12-04 05:38:48 +0000",
@@ -6516,6 +6885,7 @@
       "snow_block": "2020-12-13 02:07:25 +0000",
       "green_stained_glass": "2021-01-12 04:16:07 +0000",
       "purple_bed": "2021-01-23 07:34:04 +0000",
+      "light_blue_wool": "2021-02-26 04:22:36 +0000",
       "prismarine_bricks": "2020-12-22 23:55:52 +0000",
       "white_tulip": "2020-12-09 02:10:49 +0000",
       "acacia_sapling": "2020-12-09 02:19:52 +0000",
@@ -6526,6 +6896,7 @@
       "cyan_shulker_box": "2021-01-14 21:37:04 +0000",
       "cobweb": "2020-11-15 03:28:37 +0000",
       "bookshelf": "2020-11-13 05:00:55 +0000",
+      "pink_carpet": "2021-02-26 04:28:32 +0000",
       "bell": "2020-11-16 04:59:19 +0000",
       "gravel": "2020-10-10 05:03:18 +0000",
       "warped_fungus": "2020-12-20 04:12:42 +0000",
@@ -6553,6 +6924,7 @@
       "black_banner": "2020-12-13 01:02:34 +0000",
       "brown_wool": "2020-12-19 04:19:22 +0000",
       "smooth_stone": "2020-11-16 03:16:41 +0000",
+      "green_carpet": "2021-02-26 04:28:44 +0000",
       "spruce_sapling": "2021-01-26 05:51:12 +0000",
       "mossy_stone_bricks": "2021-01-12 02:15:16 +0000",
       "warped_roots": "2020-12-22 01:31:50 +0000",
@@ -6565,6 +6937,7 @@
       "carved_pumpkin": "2020-11-30 19:34:33 +0000",
       "redstone_torch": "2020-11-11 04:36:33 +0000",
       "dirt": "2020-10-10 05:02:04 +0000",
+      "green_wool": "2021-02-26 04:22:29 +0000",
       "dark_oak_wood": "2021-01-25 03:28:54 +0000",
       "lever": "2020-11-28 00:23:42 +0000",
       "blue_bed": "2020-11-28 04:14:23 +0000",
@@ -6573,8 +6946,10 @@
       "dark_oak_fence_gate": "2020-11-13 03:06:49 +0000",
       "jungle_planks": "2021-02-25 03:42:34 +0000",
       "polished_andesite_stairs": "2020-11-27 21:47:44 +0000",
+      "magenta_carpet": "2021-02-26 04:28:25 +0000",
       "powered_rail": "2020-11-11 04:36:09 +0000",
       "emerald_ore": "2020-11-21 04:00:18 +0000",
+      "blue_carpet": "2021-02-26 04:28:41 +0000",
       "cyan_bed": "2021-01-23 07:34:04 +0000",
       "crimson_stem": "2021-01-17 04:18:37 +0000",
       "brewing_stand": "2020-11-21 02:34:29 +0000",
@@ -6587,6 +6962,7 @@
       "cobblestone": "2020-10-10 05:01:58 +0000",
       "redstone_block": "2020-11-30 18:38:28 +0000",
       "honeycomb_block": "2020-12-13 05:49:35 +0000",
+      "brown_carpet": "2021-02-26 04:28:42 +0000",
       "bricks": "2020-11-27 20:57:30 +0000",
       "orange_bed": "2021-01-23 07:28:59 +0000",
       "stone_brick_slab": "2020-12-19 08:58:09 +0000",
@@ -6607,6 +6983,7 @@
       "observer": "2020-11-27 04:33:17 +0000",
       "cake": "2020-11-13 04:12:34 +0000",
       "podzol": "2021-02-25 03:24:16 +0000",
+      "cyan_wool": "2021-02-26 04:22:41 +0000",
       "andesite": "2020-10-10 05:23:40 +0000",
       "acacia_leaves": "2020-12-09 02:42:47 +0000",
       "yellow_shulker_box": "2021-01-12 03:55:58 +0000",
@@ -6643,6 +7020,7 @@
       "green_shulker_box": "2021-01-12 03:55:58 +0000",
       "dark_oak_stairs": "2021-01-25 03:24:44 +0000",
       "blue_shulker_box": "2021-01-12 03:55:58 +0000",
+      "orange_carpet": "2021-02-26 04:28:20 +0000",
       "smoker": "2020-11-15 05:01:39 +0000",
       "loom": "2020-11-27 05:01:07 +0000",
       "polished_blackstone": "2021-01-25 03:38:43 +0000",
@@ -6653,7 +7031,9 @@
       "obsidian": "2020-10-10 05:11:36 +0000",
       "glass": "2020-11-10 22:32:30 +0000",
       "seagrass": "2020-12-25 01:37:32 +0000",
+      "cyan_carpet": "2021-02-26 04:28:37 +0000",
       "grindstone": "2020-11-10 22:24:36 +0000",
+      "purple_carpet": "2021-02-26 04:28:39 +0000",
       "dark_oak_leaves": "2020-11-13 01:15:25 +0000",
       "lime_shulker_box": "2021-01-12 03:55:58 +0000",
       "jungle_sapling": "2021-02-18 02:48:36 +0000",
@@ -6663,11 +7043,13 @@
       "blackstone_slab": "2021-01-17 03:07:36 +0000",
       "birch_trapdoor": "2020-12-22 03:28:32 +0000",
       "lily_of_the_valley": "2020-11-27 06:18:59 +0000",
+      "black_carpet": "2021-02-26 04:28:48 +0000",
       "blue_orchid": "2020-12-09 02:06:54 +0000",
       "gray_bed": "2021-01-23 07:31:41 +0000",
       "crafting_table": "2020-10-10 05:00:40 +0000",
       "wet_sponge": "2020-12-22 23:48:52 +0000",
       "cobblestone_stairs": "2020-11-10 22:11:31 +0000",
+      "yellow_wool": "2021-02-26 04:23:31 +0000",
       "diamond_block": "2020-11-30 18:38:28 +0000",
       "dried_kelp_block": "2021-02-25 06:07:22 +0000",
       "end_stone_bricks": "2021-01-12 03:15:46 +0000",
@@ -6678,8 +7060,10 @@
       "cauldron": "2020-12-09 02:17:12 +0000",
       "soul_sand": "2020-11-20 04:56:20 +0000",
       "horn_coral_block": "2021-01-24 05:03:10 +0000",
+      "tube_coral_block": "2021-02-26 05:46:34 +0000",
       "white_shulker_box": "2021-01-14 05:53:37 +0000",
       "fern": "2021-02-25 03:35:23 +0000",
+      "light_blue_carpet": "2021-02-26 04:28:27 +0000",
       "soul_soil": "2020-11-28 07:25:16 +0000",
       "orange_tulip": "2020-12-22 03:48:56 +0000",
       "dark_oak_sapling": "2020-11-13 01:18:54 +0000",
@@ -6693,6 +7077,7 @@
       "stone_brick_wall": "2020-11-27 22:00:25 +0000",
       "respawn_anchor": "2020-12-09 02:47:39 +0000",
       "crimson_nylium": "2020-12-20 04:18:58 +0000",
+      "blue_wool": "2021-02-26 04:22:57 +0000",
       "magenta_shulker_box": "2021-01-14 21:36:53 +0000",
       "yellow_stained_glass": "2021-01-12 04:16:07 +0000",
       "red_bed": "2021-01-23 07:32:44 +0000",
@@ -6704,6 +7089,7 @@
       "acacia_planks": "2021-02-25 03:42:25 +0000",
       "iron_ore": "2020-10-10 05:28:14 +0000",
       "lapis_block": "2020-11-30 18:38:28 +0000",
+      "magenta_wool": "2021-02-26 04:23:12 +0000",
       "quartz_pillar": "2021-01-25 02:48:36 +0000",
       "polished_diorite_slab": "2020-11-27 23:48:21 +0000",
       "cornflower": "2020-11-10 21:42:25 +0000",
@@ -6718,6 +7104,7 @@
       "blue_ice": "2020-12-13 03:40:36 +0000",
       "crying_obsidian": "2020-12-02 04:08:59 +0000",
       "campfire": "2020-12-01 02:58:07 +0000",
+      "pink_wool": "2021-02-26 04:23:04 +0000",
       "dark_oak_fence": "2021-01-25 03:05:51 +0000",
       "quartz_stairs": "2021-01-25 02:50:48 +0000",
       "wither_rose": "2020-12-22 04:10:06 +0000",
@@ -6754,6 +7141,7 @@
       "ancient_debris": "2020-12-22 01:41:43 +0000",
       "chiseled_quartz_block": "2021-01-25 02:54:57 +0000",
       "quartz_slab": "2021-01-25 02:45:49 +0000",
+      "lime_carpet": "2021-02-26 04:28:30 +0000",
       "granite": "2020-10-10 05:35:20 +0000",
       "red_mushroom": "2020-10-10 05:06:59 +0000",
       "purpur_slab": "2021-01-12 03:20:35 +0000",
@@ -7082,6 +7470,12 @@
     },
     "done": true
   },
+  "blazeandcave:mining/master_diamond_miner": {
+    "criteria": {
+      "diamond": "2021-02-26 04:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2020-10-10 05:46:55 +0000"
@@ -7114,6 +7508,7 @@
       "minecraft:elder_guardian": "2020-12-22 23:48:52 +0000",
       "minecraft:ravager": "2021-01-17 02:38:10 +0000",
       "minecraft:ghast": "2020-11-28 07:17:04 +0000",
+      "minecraft:skeleton_horse": "2021-02-26 03:37:05 +0000",
       "minecraft:hoglin": "2020-12-02 04:08:27 +0000",
       "minecraft:guardian": "2020-12-22 23:50:29 +0000",
       "minecraft:vindicator": "2021-01-17 02:31:10 +0000",
@@ -7191,6 +7586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2021-02-26 04:23:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-11-20 05:54:21 +0000"
@@ -7224,12 +7625,23 @@
   "blazeandcave:animal/fuzzy_feet": {
     "criteria": {
       "white_carpet": "2020-11-13 03:17:56 +0000",
+      "blue_carpet": "2021-02-26 04:28:41 +0000",
+      "cyan_carpet": "2021-02-26 04:28:37 +0000",
       "gray_carpet": "2020-11-29 07:55:01 +0000",
       "yellow_carpet": "2020-11-21 03:45:19 +0000",
+      "pink_carpet": "2021-02-26 04:28:32 +0000",
       "red_carpet": "2021-01-16 02:16:57 +0000",
-      "light_gray_carpet": "2021-02-21 05:32:19 +0000"
+      "purple_carpet": "2021-02-26 04:28:39 +0000",
+      "orange_carpet": "2021-02-26 04:28:20 +0000",
+      "light_gray_carpet": "2021-02-21 05:32:19 +0000",
+      "lime_carpet": "2021-02-26 04:28:30 +0000",
+      "magenta_carpet": "2021-02-26 04:28:25 +0000",
+      "brown_carpet": "2021-02-26 04:28:42 +0000",
+      "black_carpet": "2021-02-26 04:28:48 +0000",
+      "light_blue_carpet": "2021-02-26 04:28:27 +0000",
+      "green_carpet": "2021-02-26 04:28:44 +0000"
     },
-    "done": false
+    "done": true
   },
   "blazeandcave:farming/whats_new_with_composting": {
     "criteria": {
@@ -7306,9 +7718,10 @@
   },
   "blazeandcave:enchanting/curses": {
     "criteria": {
-      "vanishing_curse": "2020-12-09 03:03:33 +0000"
+      "vanishing_curse": "2020-12-09 03:03:33 +0000",
+      "binding_curse": "2021-02-26 05:58:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "blazeandcave:adventure/shady_deals": {
     "criteria": {
@@ -7331,6 +7744,12 @@
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2021-01-25 03:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2021-02-26 04:23:31 +0000"
     },
     "done": true
   },
@@ -7385,6 +7804,13 @@
   "blazeandcave:nether/archaeologist": {
     "criteria": {
       "ancient_debris": "2021-01-17 04:45:57 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/in_a_hole_there_lived_a_rabbit": {
+    "criteria": {
+      "rabbit": "2021-02-26 04:40:31 +0000",
+      "rabbit_hide": "2021-02-26 04:40:31 +0000"
     },
     "done": true
   },
@@ -7579,6 +8005,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2021-01-25 03:38:43 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/iron_miner": {
+    "criteria": {
+      "iron": "2021-02-26 04:51:40 +0000"
     },
     "done": true
   },
@@ -7794,6 +8226,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2020-12-04 05:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2021-02-26 04:22:36 +0000"
     },
     "done": true
   },
@@ -8063,6 +8501,7 @@
       "florist": "2020-11-27 06:18:51 +0000",
       "monumental": "2020-12-22 23:48:21 +0000",
       "shady_deals": "2020-12-13 03:40:37 +0000",
+      "businessman": "2021-02-26 05:34:35 +0000",
       "what_a_deal": "2020-11-13 03:44:09 +0000",
       "i_hereby_dub_thee": "2020-10-10 05:50:50 +0000",
       "magic_book": "2020-11-15 07:27:15 +0000",
@@ -8083,6 +8522,7 @@
       "laser_sharks": "2020-12-22 23:50:29 +0000",
       "root": "2020-10-10 05:06:16 +0000",
       "the_deep_end": "2020-12-22 23:48:53 +0000",
+      "redemption_arc": "2021-02-26 05:20:46 +0000",
       "witchcraft": "2020-12-09 02:16:00 +0000",
       "oh_look_it_dings": "2020-10-10 05:10:40 +0000",
       "the_haggler": "2020-11-20 03:16:37 +0000",
@@ -8208,6 +8648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2021-02-26 04:22:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2020-11-16 03:16:45 +0000"
@@ -8285,6 +8731,12 @@
     },
     "done": true
   },
+  "blazeandcave:end/organizational_wizard": {
+    "criteria": {
+      "shulker_box": "2021-02-26 03:25:38 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:potion/marine_marauder": {
     "criteria": {
       "long_water_breathing": "2020-12-19 07:33:37 +0000"
@@ -8341,6 +8793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2021-02-26 04:22:36 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:redstone/pressure_detector": {
     "criteria": {
       "detector_rail": "2020-11-12 22:19:22 +0000"
@@ -8350,6 +8808,12 @@
   "blazeandcave:combat/because_im_aquaman": {
     "criteria": {
       "trident": "2020-12-23 02:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2021-02-26 04:23:26 +0000"
     },
     "done": true
   },
@@ -8386,6 +8850,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2020-11-16 03:16:45 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/gold_miner": {
+    "criteria": {
+      "gold": "2021-02-26 04:51:09 +0000"
     },
     "done": true
   },
@@ -8447,11 +8917,22 @@
     "criteria": {
       "white_wool": "2020-10-10 05:06:40 +0000",
       "gray_wool": "2020-12-01 01:23:37 +0000",
+      "yellow_wool": "2021-02-26 04:23:31 +0000",
+      "green_wool": "2021-02-26 04:22:29 +0000",
+      "blue_wool": "2021-02-26 04:22:57 +0000",
       "light_gray_wool": "2020-12-04 05:18:43 +0000",
+      "magenta_wool": "2021-02-26 04:23:12 +0000",
+      "purple_wool": "2021-02-26 04:23:26 +0000",
+      "red_wool": "2021-02-26 04:23:49 +0000",
+      "light_blue_wool": "2021-02-26 04:22:36 +0000",
+      "lime_wool": "2021-02-26 04:22:16 +0000",
       "black_wool": "2020-11-11 01:02:39 +0000",
-      "brown_wool": "2020-12-19 04:19:22 +0000"
+      "brown_wool": "2020-12-19 04:19:22 +0000",
+      "cyan_wool": "2021-02-26 04:22:41 +0000",
+      "pink_wool": "2021-02-26 04:23:04 +0000",
+      "orange_wool": "2021-02-26 04:23:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "blazeandcave:weaponry/that_is_so_fletch": {
     "criteria": {
@@ -8498,18 +8979,28 @@
   "blazeandcave:farming/meat_lovers": {
     "criteria": {
       "cooked_porkchop": "2020-10-10 05:33:39 +0000",
+      "raw_salmon": "2021-02-26 03:54:54 +0000",
       "chicken": "2020-12-04 05:18:20 +0000",
       "rotten_flesh": "2020-11-11 00:37:32 +0000",
       "cooked_mutton": "2020-10-10 06:11:25 +0000",
+      "raw_cod": "2021-02-26 03:55:20 +0000",
       "cooked_beef": "2020-10-10 06:04:50 +0000",
       "beef": "2020-10-10 05:15:24 +0000",
+      "tropical_fish": "2021-02-25 23:41:43 +0000",
       "spider_eye": "2020-12-07 05:01:49 +0000",
+      "cooked_rabbit": "2021-02-26 06:03:38 +0000",
       "cooked_chicken": "2020-10-10 05:15:32 +0000",
       "cooked_cod": "2020-12-02 03:55:37 +0000",
       "rabbit_stew": "2020-12-04 03:06:52 +0000",
       "cooked_salmon": "2020-12-04 00:02:25 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2021-02-26 04:23:31 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
@@ -8591,6 +9082,7 @@
   },
   "blazeandcave:adventure/stockbroker": {
     "criteria": {
+      "leatherworker_plains": "2021-02-26 05:34:35 +0000",
       "fletcher_plains": "2020-11-16 01:04:13 +0000",
       "armorer_plains": "2020-11-16 03:28:13 +0000",
       "librarian_plains": "2020-11-13 05:00:53 +0000",
@@ -8682,6 +9174,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2020-11-21 02:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2021-02-26 04:22:57 +0000"
     },
     "done": true
   },
@@ -8787,6 +9285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2021-02-26 04:22:16 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:statistics/the_parrots_and_the_bats": {
     "criteria": {
       "trigger": "2020-12-13 05:44:28 +0000"
@@ -8808,6 +9312,12 @@
   "blazeandcave:mining/iron_man": {
     "criteria": {
       "iron_armor": "2020-10-10 06:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2021-02-26 04:23:12 +0000"
     },
     "done": true
   },
@@ -8877,6 +9387,27 @@
     },
     "done": true
   },
+  "blazeandcave:animal/shoe_shed": {
+    "criteria": {
+      "magenta": "2021-02-26 03:52:42 +0000",
+      "pink": "2021-02-26 03:52:35 +0000",
+      "green": "2021-02-26 03:51:40 +0000",
+      "lime": "2021-02-26 03:51:35 +0000",
+      "light_gray": "2021-02-26 03:50:42 +0000",
+      "yellow": "2021-02-26 03:51:28 +0000",
+      "black": "2021-02-26 03:50:21 +0000",
+      "light_blue": "2021-02-26 03:52:09 +0000",
+      "brown": "2021-02-26 03:50:57 +0000",
+      "cyan": "2021-02-26 03:52:03 +0000",
+      "orange": "2021-02-26 03:51:11 +0000",
+      "red": "2021-02-26 03:51:05 +0000",
+      "gray": "2021-02-26 03:50:27 +0000",
+      "white": "2021-02-26 03:28:08 +0000",
+      "blue": "2021-02-26 03:51:58 +0000",
+      "purple": "2021-02-26 03:52:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-11-10 21:24:56 +0000"
@@ -8935,6 +9466,12 @@
   "blazeandcave:adventure/dry_spell": {
     "criteria": {
       "sponge": "2021-01-14 19:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2021-02-26 04:23:04 +0000"
     },
     "done": true
   },
@@ -9081,6 +9618,7 @@
       "chorus_fruit": "2021-01-12 02:37:57 +0000",
       "beef": "2020-10-10 05:15:24 +0000",
       "baked_potato": "2020-11-21 02:39:38 +0000",
+      "tropical_fish": "2021-02-25 23:41:43 +0000",
       "beetroot_soup": "2020-11-13 04:12:00 +0000",
       "apple": "2020-11-28 07:53:00 +0000",
       "spider_eye": "2020-12-07 05:01:49 +0000",
@@ -9088,15 +9626,18 @@
       "cooked_cod": "2020-12-02 03:55:37 +0000",
       "poisonous_potato": "2020-11-27 05:12:58 +0000",
       "pumpkin_pie": "2020-11-14 04:47:29 +0000",
+      "raw_salmon": "2021-02-26 03:54:54 +0000",
       "bread": "2020-10-24 04:15:44 +0000",
       "golden_apple": "2020-11-22 06:21:35 +0000",
       "rotten_flesh": "2020-11-11 00:37:32 +0000",
       "suspicious_stew": "2020-11-11 04:40:28 +0000",
       "cookie": "2020-11-21 02:46:34 +0000",
+      "raw_cod": "2021-02-26 03:55:20 +0000",
       "dried_kelp": "2021-02-25 06:07:14 +0000",
       "melon_slice": "2020-11-20 03:18:24 +0000",
       "beetroot": "2020-11-13 02:42:30 +0000",
       "golden_carrot": "2020-11-27 06:24:31 +0000",
+      "cooked_rabbit": "2021-02-26 06:03:38 +0000",
       "cooked_chicken": "2020-10-10 05:15:32 +0000",
       "mushroom_stew": "2020-11-10 22:27:00 +0000",
       "rabbit_stew": "2020-12-04 03:06:52 +0000",
@@ -9105,13 +9646,42 @@
     },
     "done": false
   },
+  "blazeandcave:animal/foal_play": {
+    "criteria": {
+      "horse": "2021-02-26 03:58:45 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:mining/where_are_all_your_clothes": {
     "criteria": {
+      "leather_boots": "2021-02-26 04:50:21 +0000",
+      "chainmail_helmet": "2021-02-26 04:50:21 +0000",
+      "netherite_helmet": "2021-02-26 04:50:21 +0000",
+      "leather_chestplate": "2021-02-26 04:50:21 +0000",
+      "iron_chestplate": "2021-02-26 04:50:21 +0000",
       "iron_boots": "2020-11-15 04:20:26 +0000",
+      "diamond_leggings": "2021-02-26 04:50:21 +0000",
+      "diamond_helmet": "2021-02-26 04:50:21 +0000",
+      "golden_boots": "2021-02-26 04:50:21 +0000",
+      "chainmail_boots": "2021-02-26 04:50:21 +0000",
+      "diamond_chestplate": "2021-02-26 04:50:21 +0000",
+      "diamond_boots": "2021-02-26 04:50:21 +0000",
       "iron_helmet": "2020-11-14 05:50:58 +0000",
-      "elytra": "2021-02-18 04:22:04 +0000"
+      "golden_chestplate": "2021-02-26 04:50:21 +0000",
+      "turtle_helmet": "2021-02-26 04:50:21 +0000",
+      "netherite_leggings": "2021-02-26 04:50:21 +0000",
+      "golden_leggings": "2021-02-26 04:50:21 +0000",
+      "netherite_chestplate": "2021-02-26 04:50:21 +0000",
+      "netherite_boots": "2021-02-26 04:50:21 +0000",
+      "chainmail_leggings": "2021-02-26 04:50:21 +0000",
+      "chainmail_chestplate": "2021-02-26 04:50:21 +0000",
+      "iron_leggings": "2021-02-26 04:50:21 +0000",
+      "elytra": "2021-02-18 04:22:04 +0000",
+      "leather_leggings": "2021-02-26 04:50:21 +0000",
+      "golden_helmet": "2021-02-26 04:50:21 +0000",
+      "leather_helmet": "2021-02-26 04:50:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
@@ -9247,6 +9817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2021-02-26 04:23:04 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:enchanting/needle_sharp": {
     "criteria": {
       "sharpness": "2020-11-20 03:44:43 +0000"
@@ -9286,6 +9862,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2020-11-10 20:56:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2021-02-26 04:22:16 +0000"
     },
     "done": true
   },
@@ -9454,6 +10036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2021-02-26 04:23:36 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:adventure/laser_sharks": {
     "criteria": {
       "guardian": "2020-12-22 23:50:29 +0000"
@@ -9490,6 +10078,12 @@
     },
     "done": true
   },
+  "blazeandcave:farming/an_amazing_story": {
+    "criteria": {
+      "written_book": "2021-02-26 06:11:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2020-11-20 05:27:31 +0000"
@@ -9505,6 +10099,12 @@
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2021-02-25 03:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2021-02-26 04:22:41 +0000"
     },
     "done": true
   },
@@ -9567,6 +10167,7 @@
       "dark_oak_button": "2020-12-07 04:49:59 +0000",
       "tnt": "2021-02-18 01:46:03 +0000",
       "redstone": "2020-11-10 21:25:23 +0000",
+      "redstone_block": "2021-02-26 04:54:22 +0000",
       "piston": "2020-12-13 04:08:29 +0000",
       "dark_oak_trapdoor": "2021-01-12 04:08:24 +0000",
       "hopper": "2021-02-18 02:52:12 +0000"
@@ -9698,19 +10299,25 @@
   },
   "blazeandcave:bacap/animal_milestone": {
     "criteria": {
+      "foal_play": "2021-02-26 03:58:45 +0000",
       "puppies_yipe": "2020-12-19 08:39:09 +0000",
       "cool_kids": "2020-11-14 05:35:37 +0000",
       "total_beelocation": "2020-12-09 02:34:18 +0000",
+      "rainbow_collection": "2021-02-26 04:23:49 +0000",
       "a_horse_in_shining_armor": "2020-12-09 02:53:44 +0000",
       "sheariously": "2020-11-27 23:09:07 +0000",
+      "bunny_lover": "2021-02-26 04:40:31 +0000",
       "cowboy": "2020-11-15 05:14:47 +0000",
       "leader_of_the_pack": "2020-11-27 05:13:44 +0000",
       "direct_fishing": "2020-11-22 04:18:27 +0000",
       "trimming_the_treetops": "2020-11-13 01:15:25 +0000",
+      "fashion_statement": "2021-02-26 03:31:36 +0000",
       "beeloons": "2020-12-09 02:29:25 +0000",
       "treasure_hunter": "2020-12-09 03:03:34 +0000",
+      "horse_armorer": "2021-02-26 04:29:21 +0000",
       "turtle_army": "2021-02-18 01:43:01 +0000",
       "milk_does_your_body_good": "2020-11-13 03:42:17 +0000",
+      "shoe_shed": "2021-02-26 03:52:42 +0000",
       "high_steaks": "2020-10-10 06:04:51 +0000",
       "bacon": "2020-10-10 05:06:16 +0000",
       "pork_chop": "2020-10-10 05:33:40 +0000",
@@ -9719,25 +10326,33 @@
       "repopulation": "2020-11-13 03:37:02 +0000",
       "bee_our_guest": "2020-12-09 02:42:31 +0000",
       "someones_been_here_before": "2020-12-09 03:01:39 +0000",
+      "salmonella_poisoning": "2021-02-26 03:54:54 +0000",
+      "rabbit_season": "2021-02-26 06:03:38 +0000",
       "have_a_shearful_day": "2020-10-10 06:13:47 +0000",
       "so_good": "2020-10-10 05:15:32 +0000",
       "winnie_the_pooh": "2020-11-28 07:34:51 +0000",
       "fishy_business": "2020-11-13 02:48:55 +0000",
       "feeding_the_chickens": "2020-11-13 03:11:23 +0000",
       "grinding_nemo": "2020-12-23 00:21:28 +0000",
+      "sushi": "2021-02-26 03:55:20 +0000",
       "which_came_first": "2020-10-10 05:08:39 +0000",
       "artificial_selection": "2020-12-19 08:43:06 +0000",
       "delicious_fish": "2020-12-02 03:55:38 +0000",
       "wooly": "2020-10-10 05:06:40 +0000",
       "are_we_there_yet": "2020-12-19 08:41:17 +0000",
+      "fuzzy_feet": "2021-02-26 04:28:48 +0000",
       "getting_into_a_stew": "2020-12-04 03:06:52 +0000",
+      "poacher": "2021-02-26 04:38:49 +0000",
       "theyre_breeding_like_rabbits": "2021-01-26 05:22:26 +0000",
       "cow_tipper": "2020-10-10 05:13:02 +0000",
       "foilage": "2020-11-15 03:07:58 +0000",
       "hive_mind": "2020-12-13 03:40:04 +0000",
       "tickle_time": "2020-10-10 05:08:41 +0000",
       "root": "2020-10-10 05:15:24 +0000",
+      "save_the_turtles": "2021-02-26 04:34:51 +0000",
+      "totally_not_an_afk_fisher": "2021-02-26 04:39:14 +0000",
       "catching_nemo": "2021-01-14 22:04:27 +0000",
+      "in_a_hole_there_lived_a_rabbit": "2021-02-26 04:40:31 +0000",
       "turtle_soldier": "2021-01-17 05:51:26 +0000",
       "hey_look_mom": "2020-12-25 01:38:55 +0000",
       "yay_deadbush": "2021-01-26 05:18:24 +0000",
@@ -9747,7 +10362,10 @@
       "feeling_sheepish": "2020-10-10 06:11:26 +0000",
       "ya_like_jazz": "2020-12-09 02:29:52 +0000",
       "lucky_charm": "2020-12-13 01:28:36 +0000",
+      "tactical_fishing": "2021-02-26 05:48:25 +0000",
+      "chicken_cooper": "2021-02-26 04:40:53 +0000",
       "pig_slaughterer": "2020-12-19 05:34:16 +0000",
+      "live_and_let_dye": "2021-02-26 04:26:17 +0000",
       "when_pigs_used_to_fly": "2021-01-26 03:47:03 +0000"
     },
     "done": false
@@ -9833,6 +10451,12 @@
   "blazeandcave:farming/disen_berry_berry_bad": {
     "criteria": {
       "age3": "2020-12-04 00:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2021-02-26 04:23:26 +0000"
     },
     "done": true
   },
@@ -10405,6 +11029,7 @@
       "loyalty": "2020-12-23 02:23:41 +0000",
       "silk_touch": "2020-11-15 07:29:49 +0000",
       "quick_charge": "2020-12-01 02:45:14 +0000",
+      "binding_curse": "2021-02-26 05:58:36 +0000",
       "aqua_affinity": "2020-11-20 04:03:11 +0000",
       "multishot": "2020-12-01 02:45:14 +0000",
       "depth_strider": "2020-11-20 04:05:20 +0000",
@@ -10488,6 +11113,12 @@
     },
     "done": true
   },
+  "blazeandcave:animal/horse_armorer": {
+    "criteria": {
+      "leather_horse_armor": "2021-02-26 04:29:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2020-12-22 22:20:56 +0000"
@@ -10514,11 +11145,12 @@
   },
   "blazeandcave:mining/moar_tools": {
     "criteria": {
+      "stone_shovel": "2021-02-26 04:48:17 +0000",
       "stone_pickaxe": "2020-10-10 05:03:04 +0000",
       "stone_axe": "2020-10-10 05:05:35 +0000",
       "stone_hoe": "2020-10-10 05:15:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
@@ -10623,7 +11255,8 @@
   },
   "blazeandcave:animal/master_farrier": {
     "criteria": {
-      "chestnut_white": "2020-11-15 05:14:47 +0000"
+      "chestnut_white": "2020-11-15 05:14:47 +0000",
+      "gray_white_dots": "2021-02-26 03:58:11 +0000"
     },
     "done": false
   },
@@ -10755,6 +11388,19 @@
     },
     "done": true
   },
+  "blazeandcave:animal/aquarium": {
+    "criteria": {
+      "tropical_fish_bucket": "2021-02-26 05:47:44 +0000",
+      "pufferfish_bucket": "2021-02-26 05:47:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2021-02-26 04:23:49 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:mining/master_coal_miner": {
     "criteria": {
       "coal": "2021-02-18 02:07:55 +0000"
@@ -10770,6 +11416,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2020-11-27 05:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2021-02-26 04:22:41 +0000"
     },
     "done": true
   },
@@ -10829,6 +11481,7 @@
       "stone_bricks": "2020-11-21 05:41:20 +0000",
       "basalt": "2020-12-02 04:00:22 +0000",
       "cobblestone": "2020-10-10 05:23:36 +0000",
+      "redstone_block": "2021-02-26 04:54:22 +0000",
       "bricks": "2020-12-20 02:54:49 +0000",
       "orange_bed": "2021-01-23 07:28:59 +0000",
       "stone_brick_slab": "2021-01-26 04:44:23 +0000",
@@ -10857,9 +11510,11 @@
       "oak_leaves": "2020-12-04 05:36:58 +0000",
       "glass": "2020-11-13 01:34:12 +0000",
       "obsidian": "2021-01-24 04:53:32 +0000",
+      "seagrass": "2021-02-26 04:31:18 +0000",
       "dark_oak_leaves": "2020-11-13 01:16:06 +0000",
       "lime_shulker_box": "2021-01-12 03:55:58 +0000",
       "gray_bed": "2021-01-23 07:31:41 +0000",
+      "diamond_block": "2021-02-26 04:52:38 +0000",
       "stone": "2020-11-21 03:34:01 +0000",
       "dark_oak_trapdoor": "2021-01-12 04:08:24 +0000",
       "white_shulker_box": "2021-01-14 05:53:37 +0000",
@@ -11047,6 +11702,12 @@
     },
     "done": true
   },
+  "blazeandcave:mining/redstone_miner": {
+    "criteria": {
+      "redstone_block": "2021-02-26 04:51:50 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:building/fake_monument": {
     "criteria": {
       "prismarine": "2020-12-22 23:48:36 +0000",
@@ -11182,6 +11843,7 @@
     "criteria": {
       "chicken": "2020-11-13 03:07:40 +0000",
       "bee": "2020-12-09 02:29:24 +0000",
+      "trader_llama": "2021-02-26 01:31:31 +0000",
       "donkey": "2020-12-19 08:35:37 +0000",
       "cow": "2020-11-13 03:27:47 +0000",
       "pig": "2020-11-13 03:13:44 +0000",
