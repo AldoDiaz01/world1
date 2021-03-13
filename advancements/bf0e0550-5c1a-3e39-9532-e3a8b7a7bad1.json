@@ -8632,6 +8632,12 @@
     },
     "done": true
   },
+  "vanillatweaks:custom_nether_portals": {
+    "criteria": {
+      "tick": "2021-03-12 23:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2020-11-11 02:51:47 +0000"
